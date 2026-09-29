@@ -1,0 +1,1043 @@
+[
+  {
+    "generic_name": "Atezolizumab",
+    "brand_names": [],
+    "member_states": [
+      "Estonia",
+      "Croatia",
+      "Bulgaria",
+      "Cyprus",
+      "Czech Republic",
+      "Belgium",
+      "Austria",
+      "Finland",
+      "Germany",
+      "France",
+      "Greece",
+      "Hungary",
+      "Ireland",
+      "Latvia",
+      "Italy",
+      "Luxembourg",
+      "Lithuania",
+      "Malta",
+      "Poland",
+      "Spain",
+      "Portugal",
+      "Romania",
+      "Sweden",
+      "Slovakia",
+      "Slovenia"
+    ],
+    "per_member_state": [
+      {
+        "member_state": "Estonia",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "| | zepzelca with atezolizumab n=242 | atezolizumab n=241 | | overall survival1 | | deaths (%) | 113 (47%) | 136 (56%) | | median, months | 13.2 | 10.6 | | (95% ci) | (11.9, 16.4) | (9.5, 12.2) | | hazard ratio2 (95% ci) | 0.73 (0.57, 0.95) | | p-value3, 6 | 0.0174 | | progression-fr ... cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms: * zepzelca 3.2 mg/m2 iv with atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity, or * atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity randomization was stratified by ecog pe ... study enrollment (yes vs. no), and prior receipt of prophylactic cranial irradiation (yes vs. no). the major efficacy outcome measures were overall survival (os) and progression-free survival (pfs) by independent review facility (irf) per recist v1.1. a total of 483 patients were randomized, includin",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Estonia",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "57, 0.95) | | p-value3, 6 | 0.0174 | | progression-free survival1,4,5 | | number of events (%) | 174 (72%) | 202 (84%) | | median, months | 5.4 | 2.1 | | (95% ci) | (4.2, 5.8) | (1.6, 2.7) | | hazard ratio2 (95% ci) | 0.54 (0.43, 0.67) | | p-value3, 7 | < 0.0001 | figure 1: progress ... cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms: * zepzelca 3.2 mg/m2 iv with atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity, or * atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity randomization was stratified by ecog pe ... no), and prior receipt of prophylactic cranial irradiation (yes vs. no). the major efficacy outcome measures were overall survival (os) and progression-free survival (pfs) by independent review facility (irf) per recist v1.1. a total of 483 patients were randomized, including 242 to the zepzelca with atezolizumab arm and 241 to the a",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Croatia",
+        "tier": 1,
+        "source_reference": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+        "evidence_quote": "ry endpoints. improvements in median pfs and median os were reported in the combination arm compared to the atezolizumab arm (respectively, 5.4 vs. 2.1 months (hr 0.54), and 13.2 vs. 10.6 months (hr 0.73). results were consistent across all key subgroups. the combination was generally well tolerated, with n ... induction chemo-immunotherapy (carboplatin, etoposide, and atezolizumab), patients without disease progression were randomised to continue atezolizumab alone or in combination with lurbinectedin, a selective transcription inhibitor with prior single-agent activity in sclc. [...] taken together, t",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Croatia",
+        "tier": 1,
+        "source_reference": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+        "evidence_quote": "an pfs and median os were reported in the combination arm compared to the atezolizumab arm (respectively, 5.4 vs. 2.1 months (hr 0.54), and 13.2 vs. 10.6 months (hr 0.73). results were consistent across all key subgroups. the combination was generally well tolerated, with no new safety signals emerging beyond ... induction chemo-immunotherapy (carboplatin, etoposide, and atezolizumab), patients without disease progression were randomised to continue atezolizumab alone or in combination with lurbinectedin, a selective transcription inhibitor with prior single-agent activity in sclc. [...] taken together, t",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Croatia",
+        "tier": 1,
+        "source_reference": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+        "evidence_quote": "ly, 5.4 vs. 2.1 months (hr 0.54), and 13.2 vs. 10.6 months (hr 0.73). results were consistent across all key subgroups. the combination was generally well tolerated, with no new safety signals emerging beyond the known profiles of atezolizumab and lurbinectedin. [...] thoracic malignancies # new evidence is reshaping second-line and maintenance treatment for small cell lung cancer alfredo addeo imm ... induction chemo-immunotherapy (carboplatin, etoposide, and atezolizumab), patients without disease progression were randomised to continue atezolizumab alone or in combination with lurbinectedin, a selective transcription inhibitor with prior single-agent activity in sclc. [...] taken together, t",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Bulgaria",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "| | zepzelca with atezolizumab n=242 | atezolizumab n=241 | | overall survival1 | | deaths (%) | 113 (47%) | 136 (56%) | | median, months | 13.2 | 10.6 | | (95% ci) | (11.9, 16.4) | (9.5, 12.2) | | hazard ratio2 (95% ci) | 0.73 (0.57, 0.95) | | p-value3, 6 | 0.0174 | | progression-fr ... cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms: * zepzelca 3.2 mg/m2 iv with atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity, or * atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity randomization was stratified by ecog pe ... study enrollment (yes vs. no), and prior receipt of prophylactic cranial irradiation (yes vs. no). the major efficacy outcome measures were overall survival (os) and progression-free survival (pfs) by independent review facility (irf) per recist v1.1. a total of 483 patients were randomized, includin",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Bulgaria",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "57, 0.95) | | p-value3, 6 | 0.0174 | | progression-free survival1,4,5 | | number of events (%) | 174 (72%) | 202 (84%) | | median, months | 5.4 | 2.1 | | (95% ci) | (4.2, 5.8) | (1.6, 2.7) | | hazard ratio2 (95% ci) | 0.54 (0.43, 0.67) | | p-value3, 7 | < 0.0001 | figure 1: progress ... cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms: * zepzelca 3.2 mg/m2 iv with atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity, or * atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity randomization was stratified by ecog pe ... no), and prior receipt of prophylactic cranial irradiation (yes vs. no). the major efficacy outcome measures were overall survival (os) and progression-free survival (pfs) by independent review facility (irf) per recist v1.1. a total of 483 patients were randomized, including 242 to the zepzelca with atezolizumab arm and 241 to the a",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Cyprus",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "| | zepzelca with atezolizumab n=242 | atezolizumab n=241 | | overall survival1 | | deaths (%) | 113 (47%) | 136 (56%) | | median, months | 13.2 | 10.6 | | (95% ci) | (11.9, 16.4) | (9.5, 12.2) | | hazard ratio2 (95% ci) | 0.73 (0.57, 0.95) | | p-value3, 6 | 0.0174 | | progression-fr ... cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms: * zepzelca 3.2 mg/m2 iv with atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity, or * atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity randomization was stratified by ecog pe ... study enrollment (yes vs. no), and prior receipt of prophylactic cranial irradiation (yes vs. no). the major efficacy outcome measures were overall survival (os) and progression-free survival (pfs) by independent review facility (irf) per recist v1.1. a total of 483 patients were randomized, includin",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Cyprus",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "57, 0.95) | | p-value3, 6 | 0.0174 | | progression-free survival1,4,5 | | number of events (%) | 174 (72%) | 202 (84%) | | median, months | 5.4 | 2.1 | | (95% ci) | (4.2, 5.8) | (1.6, 2.7) | | hazard ratio2 (95% ci) | 0.54 (0.43, 0.67) | | p-value3, 7 | < 0.0001 | figure 1: progress ... cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms: * zepzelca 3.2 mg/m2 iv with atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity, or * atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity randomization was stratified by ecog pe ... no), and prior receipt of prophylactic cranial irradiation (yes vs. no). the major efficacy outcome measures were overall survival (os) and progression-free survival (pfs) by independent review facility (irf) per recist v1.1. a total of 483 patients were randomized, including 242 to the zepzelca with atezolizumab arm and 241 to the a",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Czech Republic",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "| | zepzelca with atezolizumab n=242 | atezolizumab n=241 | | overall survival1 | | deaths (%) | 113 (47%) | 136 (56%) | | median, months | 13.2 | 10.6 | | (95% ci) | (11.9, 16.4) | (9.5, 12.2) | | hazard ratio2 (95% ci) | 0.73 (0.57, 0.95) | | p-value3, 6 | 0.0174 | | progression-fr ... cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms: * zepzelca 3.2 mg/m2 iv with atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity, or * atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity randomization was stratified by ecog pe ... study enrollment (yes vs. no), and prior receipt of prophylactic cranial irradiation (yes vs. no). the major efficacy outcome measures were overall survival (os) and progression-free survival (pfs) by independent review facility (irf) per recist v1.1. a total of 483 patients were randomized, includin",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Czech Republic",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "57, 0.95) | | p-value3, 6 | 0.0174 | | progression-free survival1,4,5 | | number of events (%) | 174 (72%) | 202 (84%) | | median, months | 5.4 | 2.1 | | (95% ci) | (4.2, 5.8) | (1.6, 2.7) | | hazard ratio2 (95% ci) | 0.54 (0.43, 0.67) | | p-value3, 7 | < 0.0001 | figure 1: progress ... cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms: * zepzelca 3.2 mg/m2 iv with atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity, or * atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity randomization was stratified by ecog pe ... no), and prior receipt of prophylactic cranial irradiation (yes vs. no). the major efficacy outcome measures were overall survival (os) and progression-free survival (pfs) by independent review facility (irf) per recist v1.1. a total of 483 patients were randomized, including 242 to the zepzelca with atezolizumab arm and 241 to the a",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Czech Republic",
+        "tier": 1,
+        "source_reference": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+        "evidence_quote": "ry endpoints. improvements in median pfs and median os were reported in the combination arm compared to the atezolizumab arm (respectively, 5.4 vs. 2.1 months (hr 0.54), and 13.2 vs. 10.6 months (hr 0.73). results were consistent across all key subgroups. the combination was generally well tolerated, with n ... induction chemo-immunotherapy (carboplatin, etoposide, and atezolizumab), patients without disease progression were randomised to continue atezolizumab alone or in combination with lurbinectedin, a selective transcription inhibitor with prior single-agent activity in sclc. [...] taken together, t",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Czech Republic",
+        "tier": 1,
+        "source_reference": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+        "evidence_quote": "an pfs and median os were reported in the combination arm compared to the atezolizumab arm (respectively, 5.4 vs. 2.1 months (hr 0.54), and 13.2 vs. 10.6 months (hr 0.73). results were consistent across all key subgroups. the combination was generally well tolerated, with no new safety signals emerging beyond ... induction chemo-immunotherapy (carboplatin, etoposide, and atezolizumab), patients without disease progression were randomised to continue atezolizumab alone or in combination with lurbinectedin, a selective transcription inhibitor with prior single-agent activity in sclc. [...] taken together, t",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Belgium",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "| | zepzelca with atezolizumab n=242 | atezolizumab n=241 | | overall survival1 | | deaths (%) | 113 (47%) | 136 (56%) | | median, months | 13.2 | 10.6 | | (95% ci) | (11.9, 16.4) | (9.5, 12.2) | | hazard ratio2 (95% ci) | 0.73 (0.57, 0.95) | | p-value3, 6 | 0.0174 | | progression-fr ... cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms: * zepzelca 3.2 mg/m2 iv with atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity, or * atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity randomization was stratified by ecog pe ... study enrollment (yes vs. no), and prior receipt of prophylactic cranial irradiation (yes vs. no). the major efficacy outcome measures were overall survival (os) and progression-free survival (pfs) by independent review facility (irf) per recist v1.1. a total of 483 patients were randomized, includin",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Belgium",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "57, 0.95) | | p-value3, 6 | 0.0174 | | progression-free survival1,4,5 | | number of events (%) | 174 (72%) | 202 (84%) | | median, months | 5.4 | 2.1 | | (95% ci) | (4.2, 5.8) | (1.6, 2.7) | | hazard ratio2 (95% ci) | 0.54 (0.43, 0.67) | | p-value3, 7 | < 0.0001 | figure 1: progress ... cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms: * zepzelca 3.2 mg/m2 iv with atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity, or * atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity randomization was stratified by ecog pe ... no), and prior receipt of prophylactic cranial irradiation (yes vs. no). the major efficacy outcome measures were overall survival (os) and progression-free survival (pfs) by independent review facility (irf) per recist v1.1. a total of 483 patients were randomized, including 242 to the zepzelca with atezolizumab arm and 241 to the a",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Belgium",
+        "tier": 1,
+        "source_reference": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+        "evidence_quote": "ry endpoints. improvements in median pfs and median os were reported in the combination arm compared to the atezolizumab arm (respectively, 5.4 vs. 2.1 months (hr 0.54), and 13.2 vs. 10.6 months (hr 0.73). results were consistent across all key subgroups. the combination was generally well tolerated, with n ... emo-immunotherapy (carboplatin, etoposide, and atezolizumab), patients without disease progression were randomised to continue atezolizumab alone or in combination with lurbinectedin, a selective transcription inhibitor with prior single-agent activity in sclc. [...] taken together, t ... horacic malignancies [...] the interim analysis demonstrated a significant improvement in both co-primary endpoints. improvements in median pfs and median os were reported in the combination arm compared to the atezolizumab arm (respectively, 5.4 vs. 2.1 months (hr 0.54), and 13.2 v",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Belgium",
+        "tier": 1,
+        "source_reference": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+        "evidence_quote": "an pfs and median os were reported in the combination arm compared to the atezolizumab arm (respectively, 5.4 vs. 2.1 months (hr 0.54), and 13.2 vs. 10.6 months (hr 0.73). results were consistent across all key subgroups. the combination was generally well tolerated, with no new safety signals emerging beyond ... emo-immunotherapy (carboplatin, etoposide, and atezolizumab), patients without disease progression were randomised to continue atezolizumab alone or in combination with lurbinectedin, a selective transcription inhibitor with prior single-agent activity in sclc. [...] taken together, t",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Austria",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "| | zepzelca with atezolizumab n=242 | atezolizumab n=241 | | overall survival1 | | deaths (%) | 113 (47%) | 136 (56%) | | median, months | 13.2 | 10.6 | | (95% ci) | (11.9, 16.4) | (9.5, 12.2) | | hazard ratio2 (95% ci) | 0.73 (0.57, 0.95) | | p-value3, 6 | 0.0174 | | progression-fr ... cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms: * zepzelca 3.2 mg/m2 iv with atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity, or * atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity randomization was stratified by ecog pe ... study enrollment (yes vs. no), and prior receipt of prophylactic cranial irradiation (yes vs. no). the major efficacy outcome measures were overall survival (os) and progression-free survival (pfs) by independent review facility (irf) per recist v1.1. a total of 483 patients were randomized, includin",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Austria",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "57, 0.95) | | p-value3, 6 | 0.0174 | | progression-free survival1,4,5 | | number of events (%) | 174 (72%) | 202 (84%) | | median, months | 5.4 | 2.1 | | (95% ci) | (4.2, 5.8) | (1.6, 2.7) | | hazard ratio2 (95% ci) | 0.54 (0.43, 0.67) | | p-value3, 7 | < 0.0001 | figure 1: progress ... cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms: * zepzelca 3.2 mg/m2 iv with atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity, or * atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity randomization was stratified by ecog pe ... r efficacy outcome measures were overall survival (os) and progression-free survival (pfs) by independent review facility (irf) per recist v1.1. a total of 483 patients were randomized, including 242 to the zepzelca with atezolizumab arm and 241 to the atezolizumab arm. the median a",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Austria",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "ytes | 55 | 17 | 31 | 11 | | decreased platelets | 54 | 15 | 15 | 3 | | decreased hemoglobin | 51 | 13 | 12 | 3 | | decreased neutrophils | 36 | 18 | 7 | 4 | | chemistry | | increased alkaline phosphatase | 29 | 1 | 14 | 0 | | decreased sodium | 27 | 4 | 30 | 5 | | increased alt | ... nous atezolizumab in imforte| graded per nci ctcae v5.0. | | laboratory abnormality | zepzelca with atezolizumab n = 242 | atezolizumab n = 240 | | all grades (%) | grade 3 or 4 (%) | all grades (%) | grade 3 or 4 (%) | | hematology | | decreased lymphocytes | 55 | 17 | 31 | 11 | | ... -ede4813a6355))]. ### 6 adverse reactions the following clinically significant adverse reactions are described elsewhere in the labeling: * myelosuppression [see [warnings and precautions (5.1)](#id_c5e29efc-c0d4-4f0d-a3fb-1ec020b30f6d)] * hepatotoxicity [see [warnings and precautions (5.2)](#id",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Austria",
+        "tier": 1,
+        "source_reference": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+        "evidence_quote": "ry endpoints. improvements in median pfs and median os were reported in the combination arm compared to the atezolizumab arm (respectively, 5.4 vs. 2.1 months (hr 0.54), and 13.2 vs. 10.6 months (hr 0.73). results were consistent across all key subgroups. the combination was generally well tolerated, with n ... induction chemo-immunotherapy (carboplatin, etoposide, and atezolizumab), patients without disease progression were randomised to continue atezolizumab alone or in combination with lurbinectedin, a selective transcription inhibitor with prior single-agent activity in sclc. [...] taken together, t",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Austria",
+        "tier": 1,
+        "source_reference": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+        "evidence_quote": "an pfs and median os were reported in the combination arm compared to the atezolizumab arm (respectively, 5.4 vs. 2.1 months (hr 0.54), and 13.2 vs. 10.6 months (hr 0.73). results were consistent across all key subgroups. the combination was generally well tolerated, with no new safety signals emerging beyond ... induction chemo-immunotherapy (carboplatin, etoposide, and atezolizumab), patients without disease progression were randomised to continue atezolizumab alone or in combination with lurbinectedin, a selective transcription inhibitor with prior single-agent activity in sclc. [...] taken together, t",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Finland",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "| | zepzelca with atezolizumab n=242 | atezolizumab n=241 | | overall survival1 | | deaths (%) | 113 (47%) | 136 (56%) | | median, months | 13.2 | 10.6 | | (95% ci) | (11.9, 16.4) | (9.5, 12.2) | | hazard ratio2 (95% ci) | 0.73 (0.57, 0.95) | | p-value3, 6 | 0.0174 | | progression-fr ... cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms: * zepzelca 3.2 mg/m2 iv with atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity, or * atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity randomization was stratified by ecog pe ... study enrollment (yes vs. no), and prior receipt of prophylactic cranial irradiation (yes vs. no). the major efficacy outcome measures were overall survival (os) and progression-free survival (pfs) by independent review facility (irf) per recist v1.1. a total of 483 patients were randomized, inc",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Finland",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "57, 0.95) | | p-value3, 6 | 0.0174 | | progression-free survival1,4,5 | | number of events (%) | 174 (72%) | 202 (84%) | | median, months | 5.4 | 2.1 | | (95% ci) | (4.2, 5.8) | (1.6, 2.7) | | hazard ratio2 (95% ci) | 0.54 (0.43, 0.67) | | p-value3, 7 | < 0.0001 | figure 1: progress ... cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms: * zepzelca 3.2 mg/m2 iv with atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity, or * atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity randomization was stratified by ecog pe ... r efficacy outcome measures were overall survival (os) and progression-free survival (pfs) by independent review facility (irf) per recist v1.1. a total of 483 patients were randomized, including 242 to the zepzelca with atezolizumab arm and 241 to the atezolizumab arm. the median a",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Finland",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "b was 66 years (range: 35 to 85); 62% male; 82% white, 13% asian, and 0.8% black or african american. serious adverse reactions occurred in 31% of patients receiving zepzelca in combination with atezolizumab. serious adverse reactions occurring in > 2% were pneumonia (2.5%), respir ... apy with atezolizumab, carboplatin, and etoposide. patients received zepzelca 3.2 mg/m2 intravenously (iv) in combination with atezolizumab 1200 mg iv every 21 days until disease progression or unacceptable toxicity. among 242 patients who received zepzelca in combination with intrav ... b368b22-ec0c-42df-b812-6ea06e080cae)) the most common adverse reactions, for zepzelca in combination with atezolizumab including laboratory abnormalities, (≥ 30%) are: decreased lymphocytes, decreased platelets, decreased hemoglobin, decreased neutrophils, nausea, and fatigue/asthenia. ([6.1]",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Germany",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "| | zepzelca with atezolizumab n=242 | atezolizumab n=241 | | overall survival1 | | deaths (%) | 113 (47%) | 136 (56%) | | median, months | 13.2 | 10.6 | | (95% ci) | (11.9, 16.4) | (9.5, 12.2) | | hazard ratio2 (95% ci) | 0.73 (0.57, 0.95) | | p-value3, 6 | 0.0174 | | progression-fr ... cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms: * zepzelca 3.2 mg/m2 iv with atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity, or * atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity randomization was stratified by ecog pe ... study enrollment (yes vs. no), and prior receipt of prophylactic cranial irradiation (yes vs. no). the major efficacy outcome measures were overall survival (os) and progression-free survival (pfs) by independent review facility (irf) per recist v1.1. a total of 483 patients were randomized, inc",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Germany",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "57, 0.95) | | p-value3, 6 | 0.0174 | | progression-free survival1,4,5 | | number of events (%) | 174 (72%) | 202 (84%) | | median, months | 5.4 | 2.1 | | (95% ci) | (4.2, 5.8) | (1.6, 2.7) | | hazard ratio2 (95% ci) | 0.54 (0.43, 0.67) | | p-value3, 7 | < 0.0001 | figure 1: progress ... cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms: * zepzelca 3.2 mg/m2 iv with atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity, or * atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity randomization was stratified by ecog pe ... r efficacy outcome measures were overall survival (os) and progression-free survival (pfs) by independent review facility (irf) per recist v1.1. a total of 483 patients were randomized, including 242 to the zepzelca with atezolizumab arm and 241 to the atezolizumab arm. the median a",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "France",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "| | zepzelca with atezolizumab n=242 | atezolizumab n=241 | | overall survival1 | | deaths (%) | 113 (47%) | 136 (56%) | | median, months | 13.2 | 10.6 | | (95% ci) | (11.9, 16.4) | (9.5, 12.2) | | hazard ratio2 (95% ci) | 0.73 (0.57, 0.95) | | p-value3, 6 | 0.0174 | | progression-fr ... cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms: * zepzelca 3.2 mg/m2 iv with atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity, or * atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity randomization was stratified by ecog pe ... study enrollment (yes vs. no), and prior receipt of prophylactic cranial irradiation (yes vs. no). the major efficacy outcome measures were overall survival (os) and progression-free survival (pfs) by independent review facility (irf) per recist v1.1. a total of 483 patients were randomized, inc",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "France",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "57, 0.95) | | p-value3, 6 | 0.0174 | | progression-free survival1,4,5 | | number of events (%) | 174 (72%) | 202 (84%) | | median, months | 5.4 | 2.1 | | (95% ci) | (4.2, 5.8) | (1.6, 2.7) | | hazard ratio2 (95% ci) | 0.54 (0.43, 0.67) | | p-value3, 7 | < 0.0001 | figure 1: progress ... cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms: * zepzelca 3.2 mg/m2 iv with atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity, or * atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity randomization was stratified by ecog pe ... no), and prior receipt of prophylactic cranial irradiation (yes vs. no). the major efficacy outcome measures were overall survival (os) and progression-free survival (pfs) by independent review facility (irf) per recist v1.1. a total of 483 patients were randomized, including 242 to the zepzelca with atezolizumab arm and 241 to the a",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Greece",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "| | zepzelca with atezolizumab n=242 | atezolizumab n=241 | | overall survival1 | | deaths (%) | 113 (47%) | 136 (56%) | | median, months | 13.2 | 10.6 | | (95% ci) | (11.9, 16.4) | (9.5, 12.2) | | hazard ratio2 (95% ci) | 0.73 (0.57, 0.95) | | p-value3, 6 | 0.0174 | | progression-fr ... cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms: * zepzelca 3.2 mg/m2 iv with atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity, or * atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity randomization was stratified by ecog pe ... study enrollment (yes vs. no), and prior receipt of prophylactic cranial irradiation (yes vs. no). the major efficacy outcome measures were overall survival (os) and progression-free survival (pfs) by independent review facility (irf) per recist v1.1. a total of 483 patients were randomized, inc",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Greece",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "57, 0.95) | | p-value3, 6 | 0.0174 | | progression-free survival1,4,5 | | number of events (%) | 174 (72%) | 202 (84%) | | median, months | 5.4 | 2.1 | | (95% ci) | (4.2, 5.8) | (1.6, 2.7) | | hazard ratio2 (95% ci) | 0.54 (0.43, 0.67) | | p-value3, 7 | < 0.0001 | figure 1: progress ... cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms: * zepzelca 3.2 mg/m2 iv with atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity, or * atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity randomization was stratified by ecog pe ... r efficacy outcome measures were overall survival (os) and progression-free survival (pfs) by independent review facility (irf) per recist v1.1. a total of 483 patients were randomized, including 242 to the zepzelca with atezolizumab arm and 241 to the atezolizumab arm. the median a",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Greece",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "6e080cae)], primary prophylaxis of g-csf was administered to 84% of patients. based on laboratory values, decreased neutrophils occurred in 36%, including 18% grade 3 or grade 4 in patients who received zepzelca in combination with atezolizumab. the median time to onset of grade 3 ... nous atezolizumab in imforte| graded per nci ctcae v5.0. | | laboratory abnormality | zepzelca with atezolizumab n = 242 | atezolizumab n = 240 | | all grades (%) | grade 3 or 4 (%) | all grades (%) | grade 3 or 4 (%) | | hematology | | decreased lymphocytes | 55 | 17 | 31 | 11 | | ... h atezolizumab including laboratory abnormalities, (≥ 30%) are: decreased lymphocytes, decreased platelets, decreased hemoglobin, decreased neutrophils, nausea, and fatigue/asthenia. ([6.1](#id_6b368b22-ec0c-42df-b812-6ea06e080cae)) to report suspected adverse reactions, contact jazz pharma",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Greece",
+        "tier": 1,
+        "source_reference": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+        "evidence_quote": "ry endpoints. improvements in median pfs and median os were reported in the combination arm compared to the atezolizumab arm (respectively, 5.4 vs. 2.1 months (hr 0.54), and 13.2 vs. 10.6 months (hr 0.73). results were consistent across all key subgroups. the combination was generally well tolerated, with n ... emo-immunotherapy (carboplatin, etoposide, and atezolizumab), patients without disease progression were randomised to continue atezolizumab alone or in combination with lurbinectedin, a selective transcription inhibitor with prior single-agent activity in sclc. [...] taken together, t",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Greece",
+        "tier": 1,
+        "source_reference": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+        "evidence_quote": "an pfs and median os were reported in the combination arm compared to the atezolizumab arm (respectively, 5.4 vs. 2.1 months (hr 0.54), and 13.2 vs. 10.6 months (hr 0.73). results were consistent across all key subgroups. the combination was generally well tolerated, with no new safety signals emerging beyond ... emo-immunotherapy (carboplatin, etoposide, and atezolizumab), patients without disease progression were randomised to continue atezolizumab alone or in combination with lurbinectedin, a selective transcription inhibitor with prior single-agent activity in sclc. [...] taken together, t",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Greece",
+        "tier": 1,
+        "source_reference": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+        "evidence_quote": "ly, 5.4 vs. 2.1 months (hr 0.54), and 13.2 vs. 10.6 months (hr 0.73). results were consistent across all key subgroups. the combination was generally well tolerated, with no new safety signals emerging beyond the known profiles of atezolizumab and lurbinectedin. [...] thoracic malignancies # new evidence is reshaping second-line and maintenance treatment for small cell lung cancer alfredo addeo imm ... emo-immunotherapy (carboplatin, etoposide, and atezolizumab), patients without disease progression were randomised to continue atezolizumab alone or in combination with lurbinectedin, a selective transcription inhibitor with prior single-agent activity in sclc. [...] taken together, t",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Hungary",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "| | zepzelca with atezolizumab n=242 | atezolizumab n=241 | | overall survival1 | | deaths (%) | 113 (47%) | 136 (56%) | | median, months | 13.2 | 10.6 | | (95% ci) | (11.9, 16.4) | (9.5, 12.2) | | hazard ratio2 (95% ci) | 0.73 (0.57, 0.95) | | p-value3, 6 | 0.0174 | | progression-fr ... cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms: * zepzelca 3.2 mg/m2 iv with atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity, or * atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity randomization was stratified by ecog pe ... study enrollment (yes vs. no), and prior receipt of prophylactic cranial irradiation (yes vs. no). the major efficacy outcome measures were overall survival (os) and progression-free survival (pfs) by independent review facility (irf) per recist v1.1. a total of 483 patients were randomized, inc",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Hungary",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "57, 0.95) | | p-value3, 6 | 0.0174 | | progression-free survival1,4,5 | | number of events (%) | 174 (72%) | 202 (84%) | | median, months | 5.4 | 2.1 | | (95% ci) | (4.2, 5.8) | (1.6, 2.7) | | hazard ratio2 (95% ci) | 0.54 (0.43, 0.67) | | p-value3, 7 | < 0.0001 | figure 1: progress ... cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms: * zepzelca 3.2 mg/m2 iv with atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity, or * atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity randomization was stratified by ecog pe ... r efficacy outcome measures were overall survival (os) and progression-free survival (pfs) by independent review facility (irf) per recist v1.1. a total of 483 patients were randomized, including 242 to the zepzelca with atezolizumab arm and 241 to the atezolizumab arm. the median a",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Hungary",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "s. | | ci=confidence interval | | zepzelca with atezolizumab n=242 | atezolizumab n=241 | | overall survival1 | | deaths (%) | 113 (47%) | 136 (56%) | | median, months | 13.2 | 10.6 | | (95% ci) | (11.9, 16.4) | (9.5, 12.2) | | hazard ratio2 (95% ci) | 0.73 (0.57, 0.95) | | p-value ... cough syndrome. | | 5includes dyspnea and dyspnea exertional. | | adverse reaction | zepzelca with atezolizumab n = 242 | atezolizumab n = 240 | | all grades (%) | grade 3 or 4 (%) | all grades (%) | grade 3 or 4 (%) | | gastrointestinal | | nausea | 36 | 3 | 4 | 1 | | diarrhea1 | ... decreased appetite | 17 | 0 | 7 | 0 | | respiratory, thoracic and mediastinal disorders | | cough4 | 12 | 0 | 8 | 0 | | dyspnea5 | 11 | 2 | 10 | 2 | clinically relevant adverse reactions in < 10% of patients who received zepzelca in combination with intravenous atezolizumab include",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Hungary",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "| atezolizumab n = 240 | | all grades (%) | grade 3 or 4 (%) | all grades (%) | grade 3 or 4 (%) | | hematology | | decreased lymphocytes | 55 | 17 | 31 | 11 | | decreased platelets | 54 | 15 | 15 | 3 | | decreased hemoglobin | 51 | 13 | 12 | 3 | | decreased neutrophils | 36 | 18 | ... cough syndrome. | | 5includes dyspnea and dyspnea exertional. | | adverse reaction | zepzelca with atezolizumab n = 242 | atezolizumab n = 240 | | all grades (%) | grade 3 or 4 (%) | all grades (%) | grade 3 or 4 (%) | | gastrointestinal | | nausea | 36 | 3 | 4 | 1 | | diarrhea1 | ... 1634-222c-4e9c-80e9-42dd73172f75)] the most common adverse reactions for zepzelca as a single agent, including laboratory abnormalities, (≥ 20%) are leukopenia, lymphopenia, fatigue, anemia, neutropenia, increased creatinine, increased alanine aminotransferase, increased glucose, t",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Hungary",
+        "tier": 1,
+        "source_reference": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+        "evidence_quote": "ry endpoints. improvements in median pfs and median os were reported in the combination arm compared to the atezolizumab arm (respectively, 5.4 vs. 2.1 months (hr 0.54), and 13.2 vs. 10.6 months (hr 0.73). results were consistent across all key subgroups. the combination was generally well tolerated, with n ... induction chemo-immunotherapy (carboplatin, etoposide, and atezolizumab), patients without disease progression were randomised to continue atezolizumab alone or in combination with lurbinectedin, a selective transcription inhibitor with prior single-agent activity in sclc. [...] taken together, t ... horacic malignancies [...] the interim analysis demonstrated a significant improvement in both co-primary endpoints. improvements in median pfs and median os were reported in the combination arm compared to the atezolizumab arm (respectively, 5.4 vs. 2.1 months (hr 0.54), and 13.2 v",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Hungary",
+        "tier": 1,
+        "source_reference": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+        "evidence_quote": "an pfs and median os were reported in the combination arm compared to the atezolizumab arm (respectively, 5.4 vs. 2.1 months (hr 0.54), and 13.2 vs. 10.6 months (hr 0.73). results were consistent across all key subgroups. the combination was generally well tolerated, with no new safety signals emerging beyond ... induction chemo-immunotherapy (carboplatin, etoposide, and atezolizumab), patients without disease progression were randomised to continue atezolizumab alone or in combination with lurbinectedin, a selective transcription inhibitor with prior single-agent activity in sclc. [...] taken together, t",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Ireland",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "| | zepzelca with atezolizumab n=242 | atezolizumab n=241 | | overall survival1 | | deaths (%) | 113 (47%) | 136 (56%) | | median, months | 13.2 | 10.6 | | (95% ci) | (11.9, 16.4) | (9.5, 12.2) | | hazard ratio2 (95% ci) | 0.73 (0.57, 0.95) | | p-value3, 6 | 0.0174 | | progression-fr ... cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms: * zepzelca 3.2 mg/m2 iv with atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity, or * atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity randomization was stratified by ecog pe ... study enrollment (yes vs. no), and prior receipt of prophylactic cranial irradiation (yes vs. no). the major efficacy outcome measures were overall survival (os) and progression-free survival (pfs) by independent review facility (irf) per recist v1.1. a total of 483 patients were randomized, includin",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Ireland",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "57, 0.95) | | p-value3, 6 | 0.0174 | | progression-free survival1,4,5 | | number of events (%) | 174 (72%) | 202 (84%) | | median, months | 5.4 | 2.1 | | (95% ci) | (4.2, 5.8) | (1.6, 2.7) | | hazard ratio2 (95% ci) | 0.54 (0.43, 0.67) | | p-value3, 7 | < 0.0001 | figure 1: progress ... cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms: * zepzelca 3.2 mg/m2 iv with atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity, or * atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity randomization was stratified by ecog pe ... r efficacy outcome measures were overall survival (os) and progression-free survival (pfs) by independent review facility (irf) per recist v1.1. a total of 483 patients were randomized, including 242 to the zepzelca with atezolizumab arm and 241 to the atezolizumab arm. the median a",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Latvia",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "| | zepzelca with atezolizumab n=242 | atezolizumab n=241 | | overall survival1 | | deaths (%) | 113 (47%) | 136 (56%) | | median, months | 13.2 | 10.6 | | (95% ci) | (11.9, 16.4) | (9.5, 12.2) | | hazard ratio2 (95% ci) | 0.73 (0.57, 0.95) | | p-value3, 6 | 0.0174 | | progression-fr ... cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms: * zepzelca 3.2 mg/m2 iv with atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity, or * atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity randomization was stratified by ecog pe ... study enrollment (yes vs. no), and prior receipt of prophylactic cranial irradiation (yes vs. no). the major efficacy outcome measures were overall survival (os) and progression-free survival (pfs) by independent review facility (irf) per recist v1.1. a total of 483 patients were randomized, inc",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Latvia",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "57, 0.95) | | p-value3, 6 | 0.0174 | | progression-free survival1,4,5 | | number of events (%) | 174 (72%) | 202 (84%) | | median, months | 5.4 | 2.1 | | (95% ci) | (4.2, 5.8) | (1.6, 2.7) | | hazard ratio2 (95% ci) | 0.54 (0.43, 0.67) | | p-value3, 7 | < 0.0001 | figure 1: progress ... cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms: * zepzelca 3.2 mg/m2 iv with atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity, or * atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity randomization was stratified by ecog pe ... no), and prior receipt of prophylactic cranial irradiation (yes vs. no). the major efficacy outcome measures were overall survival (os) and progression-free survival (pfs) by independent review facility (irf) per recist v1.1. a total of 483 patients were randomized, including 242 to the zepzelca with atezolizumab arm and 241 to the a",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Latvia",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "ytes | 55 | 17 | 31 | 11 | | decreased platelets | 54 | 15 | 15 | 3 | | decreased hemoglobin | 51 | 13 | 12 | 3 | | decreased neutrophils | 36 | 18 | 7 | 4 | | chemistry | | increased alkaline phosphatase | 29 | 1 | 14 | 0 | | decreased sodium | 27 | 4 | 30 | 5 | | increased alt | ... cough syndrome. | | 5includes dyspnea and dyspnea exertional. | | adverse reaction | zepzelca with atezolizumab n = 242 | atezolizumab n = 240 | | all grades (%) | grade 3 or 4 (%) | all grades (%) | grade 3 or 4 (%) | | gastrointestinal | | nausea | 36 | 3 | 4 | 1 | | diarrhea1 | ... b368b22-ec0c-42df-b812-6ea06e080cae)) the most common adverse reactions, for zepzelca in combination with atezolizumab including laboratory abnormalities, (≥ 30%) are: decreased lymphocytes, decreased platelets, decreased hemoglobin, decreased neutrophils, nausea, and fatigue/asthenia. ([6.1]",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Latvia",
+        "tier": 1,
+        "source_reference": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+        "evidence_quote": "ry endpoints. improvements in median pfs and median os were reported in the combination arm compared to the atezolizumab arm (respectively, 5.4 vs. 2.1 months (hr 0.54), and 13.2 vs. 10.6 months (hr 0.73). results were consistent across all key subgroups. the combination was generally well tolerated, with n ... induction chemo-immunotherapy (carboplatin, etoposide, and atezolizumab), patients without disease progression were randomised to continue atezolizumab alone or in combination with lurbinectedin, a selective transcription inhibitor with prior single-agent activity in sclc. [...] taken together, t",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Latvia",
+        "tier": 1,
+        "source_reference": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+        "evidence_quote": "an pfs and median os were reported in the combination arm compared to the atezolizumab arm (respectively, 5.4 vs. 2.1 months (hr 0.54), and 13.2 vs. 10.6 months (hr 0.73). results were consistent across all key subgroups. the combination was generally well tolerated, with no new safety signals emerging beyond ... induction chemo-immunotherapy (carboplatin, etoposide, and atezolizumab), patients without disease progression were randomised to continue atezolizumab alone or in combination with lurbinectedin, a selective transcription inhibitor with prior single-agent activity in sclc. [...] taken together, t",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Italy",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "| | zepzelca with atezolizumab n=242 | atezolizumab n=241 | | overall survival1 | | deaths (%) | 113 (47%) | 136 (56%) | | median, months | 13.2 | 10.6 | | (95% ci) | (11.9, 16.4) | (9.5, 12.2) | | hazard ratio2 (95% ci) | 0.73 (0.57, 0.95) | | p-value3, 6 | 0.0174 | | progression-fr ... cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms: * zepzelca 3.2 mg/m2 iv with atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity, or * atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity randomization was stratified by ecog pe ... study enrollment (yes vs. no), and prior receipt of prophylactic cranial irradiation (yes vs. no). the major efficacy outcome measures were overall survival (os) and progression-free survival (pfs) by independent review facility (irf) per recist v1.1. a total of 483 patients were randomized, includin",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Italy",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "57, 0.95) | | p-value3, 6 | 0.0174 | | progression-free survival1,4,5 | | number of events (%) | 174 (72%) | 202 (84%) | | median, months | 5.4 | 2.1 | | (95% ci) | (4.2, 5.8) | (1.6, 2.7) | | hazard ratio2 (95% ci) | 0.54 (0.43, 0.67) | | p-value3, 7 | < 0.0001 | figure 1: progress ... cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms: * zepzelca 3.2 mg/m2 iv with atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity, or * atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity randomization was stratified by ecog pe ... no), and prior receipt of prophylactic cranial irradiation (yes vs. no). the major efficacy outcome measures were overall survival (os) and progression-free survival (pfs) by independent review facility (irf) per recist v1.1. a total of 483 patients were randomized, including 242 to the zepzelca with atezolizumab arm and 241 to the a",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Italy",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "ytes | 55 | 17 | 31 | 11 | | decreased platelets | 54 | 15 | 15 | 3 | | decreased hemoglobin | 51 | 13 | 12 | 3 | | decreased neutrophils | 36 | 18 | 7 | 4 | | chemistry | | increased alkaline phosphatase | 29 | 1 | 14 | 0 | | decreased sodium | 27 | 4 | 30 | 5 | | increased alt | ... cough syndrome. | | 5includes dyspnea and dyspnea exertional. | | adverse reaction | zepzelca with atezolizumab n = 242 | atezolizumab n = 240 | | all grades (%) | grade 3 or 4 (%) | all grades (%) | grade 3 or 4 (%) | | gastrointestinal | | nausea | 36 | 3 | 4 | 1 | | diarrhea1 | ... h atezolizumab including laboratory abnormalities, (≥ 30%) are: decreased lymphocytes, decreased platelets, decreased hemoglobin, decreased neutrophils, nausea, and fatigue/asthenia. ([6.1](#id_6b368b22-ec0c-42df-b812-6ea06e080cae)) to report suspected adverse reactions, contact jazz pharma",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Italy",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "ytes | 55 | 17 | 31 | 11 | | decreased platelets | 54 | 15 | 15 | 3 | | decreased hemoglobin | 51 | 13 | 12 | 3 | | decreased neutrophils | 36 | 18 | 7 | 4 | | chemistry | | increased alkaline phosphatase | 29 | 1 | 14 | 0 | | decreased sodium | 27 | 4 | 30 | 5 | | increased alt | ... cough syndrome. | | 5includes dyspnea and dyspnea exertional. | | adverse reaction | zepzelca with atezolizumab n = 242 | atezolizumab n = 240 | | all grades (%) | grade 3 or 4 (%) | all grades (%) | grade 3 or 4 (%) | | gastrointestinal | | nausea | 36 | 3 | 4 | 1 | | diarrhea1 | ... decreased appetite, musculoskeletal pain, decreased albumin, constipation, dyspnea, decreased sodium, increased aspartate aminotransferase, vomiting, cough, decreased magnesium and diarrhea. table 5 summarizes the adverse reactions in the sclc cohort of study b-005. table 5: adverse reac",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Italy",
+        "tier": 1,
+        "source_reference": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+        "evidence_quote": "ry endpoints. improvements in median pfs and median os were reported in the combination arm compared to the atezolizumab arm (respectively, 5.4 vs. 2.1 months (hr 0.54), and 13.2 vs. 10.6 months (hr 0.73). results were consistent across all key subgroups. the combination was generally well tolerated, with n ... induction chemo-immunotherapy (carboplatin, etoposide, and atezolizumab), patients without disease progression were randomised to continue atezolizumab alone or in combination with lurbinectedin, a selective transcription inhibitor with prior single-agent activity in sclc. [...] taken together, t",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Italy",
+        "tier": 1,
+        "source_reference": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+        "evidence_quote": "an pfs and median os were reported in the combination arm compared to the atezolizumab arm (respectively, 5.4 vs. 2.1 months (hr 0.54), and 13.2 vs. 10.6 months (hr 0.73). results were consistent across all key subgroups. the combination was generally well tolerated, with no new safety signals emerging beyond ... induction chemo-immunotherapy (carboplatin, etoposide, and atezolizumab), patients without disease progression were randomised to continue atezolizumab alone or in combination with lurbinectedin, a selective transcription inhibitor with prior single-agent activity in sclc. [...] taken together, t",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Luxembourg",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "| | zepzelca with atezolizumab n=242 | atezolizumab n=241 | | overall survival1 | | deaths (%) | 113 (47%) | 136 (56%) | | median, months | 13.2 | 10.6 | | (95% ci) | (11.9, 16.4) | (9.5, 12.2) | | hazard ratio2 (95% ci) | 0.73 (0.57, 0.95) | | p-value3, 6 | 0.0174 | | progression-fr ... cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms: * zepzelca 3.2 mg/m2 iv with atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity, or * atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity randomization was stratified by ecog pe ... study enrollment (yes vs. no), and prior receipt of prophylactic cranial irradiation (yes vs. no). the major efficacy outcome measures were overall survival (os) and progression-free survival (pfs) by independent review facility (irf) per recist v1.1. a total of 483 patients were randomized, includin",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Luxembourg",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "57, 0.95) | | p-value3, 6 | 0.0174 | | progression-free survival1,4,5 | | number of events (%) | 174 (72%) | 202 (84%) | | median, months | 5.4 | 2.1 | | (95% ci) | (4.2, 5.8) | (1.6, 2.7) | | hazard ratio2 (95% ci) | 0.54 (0.43, 0.67) | | p-value3, 7 | < 0.0001 | figure 1: progress ... cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms: * zepzelca 3.2 mg/m2 iv with atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity, or * atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity randomization was stratified by ecog pe ... no), and prior receipt of prophylactic cranial irradiation (yes vs. no). the major efficacy outcome measures were overall survival (os) and progression-free survival (pfs) by independent review facility (irf) per recist v1.1. a total of 483 patients were randomized, including 242 to the zepzelca with atezolizumab arm and 241 to the a",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Lithuania",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "| | zepzelca with atezolizumab n=242 | atezolizumab n=241 | | overall survival1 | | deaths (%) | 113 (47%) | 136 (56%) | | median, months | 13.2 | 10.6 | | (95% ci) | (11.9, 16.4) | (9.5, 12.2) | | hazard ratio2 (95% ci) | 0.73 (0.57, 0.95) | | p-value3, 6 | 0.0174 | | progression-fr ... cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms: * zepzelca 3.2 mg/m2 iv with atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity, or * atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity randomization was stratified by ecog pe ... study enrollment (yes vs. no), and prior receipt of prophylactic cranial irradiation (yes vs. no). the major efficacy outcome measures were overall survival (os) and progression-free survival (pfs) by independent review facility (irf) per recist v1.1. a total of 483 patients were randomized, includin",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Lithuania",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "57, 0.95) | | p-value3, 6 | 0.0174 | | progression-free survival1,4,5 | | number of events (%) | 174 (72%) | 202 (84%) | | median, months | 5.4 | 2.1 | | (95% ci) | (4.2, 5.8) | (1.6, 2.7) | | hazard ratio2 (95% ci) | 0.54 (0.43, 0.67) | | p-value3, 7 | < 0.0001 | figure 1: progress ... cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms: * zepzelca 3.2 mg/m2 iv with atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity, or * atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity randomization was stratified by ecog pe ... r efficacy outcome measures were overall survival (os) and progression-free survival (pfs) by independent review facility (irf) per recist v1.1. a total of 483 patients were randomized, including 242 to the zepzelca with atezolizumab arm and 241 to the atezolizumab arm. the median a",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Lithuania",
+        "tier": 1,
+        "source_reference": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+        "evidence_quote": "ry endpoints. improvements in median pfs and median os were reported in the combination arm compared to the atezolizumab arm (respectively, 5.4 vs. 2.1 months (hr 0.54), and 13.2 vs. 10.6 months (hr 0.73). results were consistent across all key subgroups. the combination was generally well tolerated, with n ... emo-immunotherapy (carboplatin, etoposide, and atezolizumab), patients without disease progression were randomised to continue atezolizumab alone or in combination with lurbinectedin, a selective transcription inhibitor with prior single-agent activity in sclc. [...] taken together, t ... horacic malignancies [...] the interim analysis demonstrated a significant improvement in both co-primary endpoints. improvements in median pfs and median os were reported in the combination arm compared to the atezolizumab arm (respectively, 5.4 vs. 2.1 months (hr 0.54), and 13.2 v",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Lithuania",
+        "tier": 1,
+        "source_reference": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+        "evidence_quote": "an pfs and median os were reported in the combination arm compared to the atezolizumab arm (respectively, 5.4 vs. 2.1 months (hr 0.54), and 13.2 vs. 10.6 months (hr 0.73). results were consistent across all key subgroups. the combination was generally well tolerated, with no new safety signals emerging beyond ... emo-immunotherapy (carboplatin, etoposide, and atezolizumab), patients without disease progression were randomised to continue atezolizumab alone or in combination with lurbinectedin, a selective transcription inhibitor with prior single-agent activity in sclc. [...] taken together, t",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Malta",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "| | zepzelca with atezolizumab n=242 | atezolizumab n=241 | | overall survival1 | | deaths (%) | 113 (47%) | 136 (56%) | | median, months | 13.2 | 10.6 | | (95% ci) | (11.9, 16.4) | (9.5, 12.2) | | hazard ratio2 (95% ci) | 0.73 (0.57, 0.95) | | p-value3, 6 | 0.0174 | | progression-fr ... cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms: * zepzelca 3.2 mg/m2 iv with atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity, or * atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity randomization was stratified by ecog pe ... study enrollment (yes vs. no), and prior receipt of prophylactic cranial irradiation (yes vs. no). the major efficacy outcome measures were overall survival (os) and progression-free survival (pfs) by independent review facility (irf) per recist v1.1. a total of 483 patients were randomized, inc",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Malta",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "57, 0.95) | | p-value3, 6 | 0.0174 | | progression-free survival1,4,5 | | number of events (%) | 174 (72%) | 202 (84%) | | median, months | 5.4 | 2.1 | | (95% ci) | (4.2, 5.8) | (1.6, 2.7) | | hazard ratio2 (95% ci) | 0.54 (0.43, 0.67) | | p-value3, 7 | < 0.0001 | figure 1: progress ... cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms: * zepzelca 3.2 mg/m2 iv with atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity, or * atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity randomization was stratified by ecog pe ... r efficacy outcome measures were overall survival (os) and progression-free survival (pfs) by independent review facility (irf) per recist v1.1. a total of 483 patients were randomized, including 242 to the zepzelca with atezolizumab arm and 241 to the atezolizumab arm. the median a",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Malta",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "(5.3)](#id_17dc639d-b97b-453c-a653-254c59f62b21) ] * rhabdomyolysis [see [warnings and precautions (5.4)](#id_0c2f1634-222c-4e9c-80e9-42dd73172f75)] the most common adverse reactions for zepzelca as a single agent, including laboratory abnormalities, (≥ 20%) are leukopenia, lympho ... frican american. serious adverse reactions occurred in 31% of patients receiving zepzelca in combination with atezolizumab. serious adverse reactions occurring in > 2% were pneumonia (2.5%), respiratory tract infection (2.1%), dyspnea (2.1%), and decreased platelet count (2.1%). fatal adv",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Malta",
+        "tier": 1,
+        "source_reference": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+        "evidence_quote": "ry endpoints. improvements in median pfs and median os were reported in the combination arm compared to the atezolizumab arm (respectively, 5.4 vs. 2.1 months (hr 0.54), and 13.2 vs. 10.6 months (hr 0.73). results were consistent across all key subgroups. the combination was generally well tolerated, with n ... induction chemo-immunotherapy (carboplatin, etoposide, and atezolizumab), patients without disease progression were randomised to continue atezolizumab alone or in combination with lurbinectedin, a selective transcription inhibitor with prior single-agent activity in sclc. [...] taken together, t ... rinis thoracic malignancies [...] the interim analysis demonstrated a significant improvement in both co-primary endpoints. improvements in median pfs and median os were reported in the combination arm compared to the atezolizumab arm (respectively, 5.4 vs. 2.1 months (hr 0.54), and 13.2 v",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Malta",
+        "tier": 1,
+        "source_reference": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+        "evidence_quote": "an pfs and median os were reported in the combination arm compared to the atezolizumab arm (respectively, 5.4 vs. 2.1 months (hr 0.54), and 13.2 vs. 10.6 months (hr 0.73). results were consistent across all key subgroups. the combination was generally well tolerated, with no new safety signals emerging beyond ... induction chemo-immunotherapy (carboplatin, etoposide, and atezolizumab), patients without disease progression were randomised to continue atezolizumab alone or in combination with lurbinectedin, a selective transcription inhibitor with prior single-agent activity in sclc. [...] taken together, t ... malignancies [...] the interim analysis demonstrated a significant improvement in both co-primary endpoints. improvements in median pfs and median os were reported in the combination arm compared to the atezolizumab arm (respectively, 5.4 vs. 2.1 months (hr 0.54), and 13.2 vs. 10.6 months",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Poland",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "| | zepzelca with atezolizumab n=242 | atezolizumab n=241 | | overall survival1 | | deaths (%) | 113 (47%) | 136 (56%) | | median, months | 13.2 | 10.6 | | (95% ci) | (11.9, 16.4) | (9.5, 12.2) | | hazard ratio2 (95% ci) | 0.73 (0.57, 0.95) | | p-value3, 6 | 0.0174 | | progression-fr ... cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms: * zepzelca 3.2 mg/m2 iv with atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity, or * atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity randomization was stratified by ecog pe ... study enrollment (yes vs. no), and prior receipt of prophylactic cranial irradiation (yes vs. no). the major efficacy outcome measures were overall survival (os) and progression-free survival (pfs) by independent review facility (irf) per recist v1.1. a total of 483 patients were randomized, includin",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Poland",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "57, 0.95) | | p-value3, 6 | 0.0174 | | progression-free survival1,4,5 | | number of events (%) | 174 (72%) | 202 (84%) | | median, months | 5.4 | 2.1 | | (95% ci) | (4.2, 5.8) | (1.6, 2.7) | | hazard ratio2 (95% ci) | 0.54 (0.43, 0.67) | | p-value3, 7 | < 0.0001 | figure 1: progress ... cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms: * zepzelca 3.2 mg/m2 iv with atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity, or * atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity randomization was stratified by ecog pe ... r efficacy outcome measures were overall survival (os) and progression-free survival (pfs) by independent review facility (irf) per recist v1.1. a total of 483 patients were randomized, including 242 to the zepzelca with atezolizumab arm and 241 to the atezolizumab arm. the median a",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Poland",
+        "tier": 1,
+        "source_reference": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+        "evidence_quote": "ry endpoints. improvements in median pfs and median os were reported in the combination arm compared to the atezolizumab arm (respectively, 5.4 vs. 2.1 months (hr 0.54), and 13.2 vs. 10.6 months (hr 0.73). results were consistent across all key subgroups. the combination was generally well tolerated, with n ... induction chemo-immunotherapy (carboplatin, etoposide, and atezolizumab), patients without disease progression were randomised to continue atezolizumab alone or in combination with lurbinectedin, a selective transcription inhibitor with prior single-agent activity in sclc. [...] taken together, t",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Poland",
+        "tier": 1,
+        "source_reference": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+        "evidence_quote": "an pfs and median os were reported in the combination arm compared to the atezolizumab arm (respectively, 5.4 vs. 2.1 months (hr 0.54), and 13.2 vs. 10.6 months (hr 0.73). results were consistent across all key subgroups. the combination was generally well tolerated, with no new safety signals emerging beyond ... induction chemo-immunotherapy (carboplatin, etoposide, and atezolizumab), patients without disease progression were randomised to continue atezolizumab alone or in combination with lurbinectedin, a selective transcription inhibitor with prior single-agent activity in sclc. [...] taken together, t",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Spain",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "| | zepzelca with atezolizumab n=242 | atezolizumab n=241 | | overall survival1 | | deaths (%) | 113 (47%) | 136 (56%) | | median, months | 13.2 | 10.6 | | (95% ci) | (11.9, 16.4) | (9.5, 12.2) | | hazard ratio2 (95% ci) | 0.73 (0.57, 0.95) | | p-value3, 6 | 0.0174 | | progression-fr ... cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms: * zepzelca 3.2 mg/m2 iv with atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity, or * atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity randomization was stratified by ecog pe ... study enrollment (yes vs. no), and prior receipt of prophylactic cranial irradiation (yes vs. no). the major efficacy outcome measures were overall survival (os) and progression-free survival (pfs) by independent review facility (irf) per recist v1.1. a total of 483 patients were randomized, includin",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Spain",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "57, 0.95) | | p-value3, 6 | 0.0174 | | progression-free survival1,4,5 | | number of events (%) | 174 (72%) | 202 (84%) | | median, months | 5.4 | 2.1 | | (95% ci) | (4.2, 5.8) | (1.6, 2.7) | | hazard ratio2 (95% ci) | 0.54 (0.43, 0.67) | | p-value3, 7 | < 0.0001 | figure 1: progress ... cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms: * zepzelca 3.2 mg/m2 iv with atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity, or * atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity randomization was stratified by ecog pe ... no), and prior receipt of prophylactic cranial irradiation (yes vs. no). the major efficacy outcome measures were overall survival (os) and progression-free survival (pfs) by independent review facility (irf) per recist v1.1. a total of 483 patients were randomized, including 242 to the zepzelca with atezolizumab arm and 241 to the a",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Spain",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "ytes | 55 | 17 | 31 | 11 | | decreased platelets | 54 | 15 | 15 | 3 | | decreased hemoglobin | 51 | 13 | 12 | 3 | | decreased neutrophils | 36 | 18 | 7 | 4 | | chemistry | | increased alkaline phosphatase | 29 | 1 | 14 | 0 | | decreased sodium | 27 | 4 | 30 | 5 | | increased alt | ... cough syndrome. | | 5includes dyspnea and dyspnea exertional. | | adverse reaction | zepzelca with atezolizumab n = 242 | atezolizumab n = 240 | | all grades (%) | grade 3 or 4 (%) | all grades (%) | grade 3 or 4 (%) | | gastrointestinal | | nausea | 36 | 3 | 4 | 1 | | diarrhea1 | ... h atezolizumab including laboratory abnormalities, (≥ 30%) are: decreased lymphocytes, decreased platelets, decreased hemoglobin, decreased neutrophils, nausea, and fatigue/asthenia. ([6.1](#id_6b368b22-ec0c-42df-b812-6ea06e080cae)) to report suspected adverse reactions, contact jazz pharma",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Portugal",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "| | zepzelca with atezolizumab n=242 | atezolizumab n=241 | | overall survival1 | | deaths (%) | 113 (47%) | 136 (56%) | | median, months | 13.2 | 10.6 | | (95% ci) | (11.9, 16.4) | (9.5, 12.2) | | hazard ratio2 (95% ci) | 0.73 (0.57, 0.95) | | p-value3, 6 | 0.0174 | | progression-fr ... cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms: * zepzelca 3.2 mg/m2 iv with atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity, or * atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity randomization was stratified by ecog pe ... study enrollment (yes vs. no), and prior receipt of prophylactic cranial irradiation (yes vs. no). the major efficacy outcome measures were overall survival (os) and progression-free survival (pfs) by independent review facility (irf) per recist v1.1. a total of 483 patients were randomized, includin",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Portugal",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "57, 0.95) | | p-value3, 6 | 0.0174 | | progression-free survival1,4,5 | | number of events (%) | 174 (72%) | 202 (84%) | | median, months | 5.4 | 2.1 | | (95% ci) | (4.2, 5.8) | (1.6, 2.7) | | hazard ratio2 (95% ci) | 0.54 (0.43, 0.67) | | p-value3, 7 | < 0.0001 | figure 1: progress ... cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms: * zepzelca 3.2 mg/m2 iv with atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity, or * atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity randomization was stratified by ecog pe ... no), and prior receipt of prophylactic cranial irradiation (yes vs. no). the major efficacy outcome measures were overall survival (os) and progression-free survival (pfs) by independent review facility (irf) per recist v1.1. a total of 483 patients were randomized, including 242 to the zepzelca with atezolizumab arm and 241 to the a",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Portugal",
+        "tier": 1,
+        "source_reference": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+        "evidence_quote": "ry endpoints. improvements in median pfs and median os were reported in the combination arm compared to the atezolizumab arm (respectively, 5.4 vs. 2.1 months (hr 0.54), and 13.2 vs. 10.6 months (hr 0.73). results were consistent across all key subgroups. the combination was generally well tolerated, with n ... induction chemo-immunotherapy (carboplatin, etoposide, and atezolizumab), patients without disease progression were randomised to continue atezolizumab alone or in combination with lurbinectedin, a selective transcription inhibitor with prior single-agent activity in sclc. [...] taken together, t",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Portugal",
+        "tier": 1,
+        "source_reference": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+        "evidence_quote": "an pfs and median os were reported in the combination arm compared to the atezolizumab arm (respectively, 5.4 vs. 2.1 months (hr 0.54), and 13.2 vs. 10.6 months (hr 0.73). results were consistent across all key subgroups. the combination was generally well tolerated, with no new safety signals emerging beyond ... induction chemo-immunotherapy (carboplatin, etoposide, and atezolizumab), patients without disease progression were randomised to continue atezolizumab alone or in combination with lurbinectedin, a selective transcription inhibitor with prior single-agent activity in sclc. [...] taken together, t",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Portugal",
+        "tier": 1,
+        "source_reference": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+        "evidence_quote": "ly, 5.4 vs. 2.1 months (hr 0.54), and 13.2 vs. 10.6 months (hr 0.73). results were consistent across all key subgroups. the combination was generally well tolerated, with no new safety signals emerging beyond the known profiles of atezolizumab and lurbinectedin. [...] thoracic malignancies # new evidence is reshaping second-line and maintenance treatment for small cell lung cancer alfredo addeo imm ... induction chemo-immunotherapy (carboplatin, etoposide, and atezolizumab), patients without disease progression were randomised to continue atezolizumab alone or in combination with lurbinectedin, a selective transcription inhibitor with prior single-agent activity in sclc. [...] taken together, t",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Romania",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "| | zepzelca with atezolizumab n=242 | atezolizumab n=241 | | overall survival1 | | deaths (%) | 113 (47%) | 136 (56%) | | median, months | 13.2 | 10.6 | | (95% ci) | (11.9, 16.4) | (9.5, 12.2) | | hazard ratio2 (95% ci) | 0.73 (0.57, 0.95) | | p-value3, 6 | 0.0174 | | progression-fr ... cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms: * zepzelca 3.2 mg/m2 iv with atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity, or * atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity randomization was stratified by ecog pe ... study enrollment (yes vs. no), and prior receipt of prophylactic cranial irradiation (yes vs. no). the major efficacy outcome measures were overall survival (os) and progression-free survival (pfs) by independent review facility (irf) per recist v1.1. a total of 483 patients were randomized, includin",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Romania",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "57, 0.95) | | p-value3, 6 | 0.0174 | | progression-free survival1,4,5 | | number of events (%) | 174 (72%) | 202 (84%) | | median, months | 5.4 | 2.1 | | (95% ci) | (4.2, 5.8) | (1.6, 2.7) | | hazard ratio2 (95% ci) | 0.54 (0.43, 0.67) | | p-value3, 7 | < 0.0001 | figure 1: progress ... cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms: * zepzelca 3.2 mg/m2 iv with atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity, or * atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity randomization was stratified by ecog pe ... no), and prior receipt of prophylactic cranial irradiation (yes vs. no). the major efficacy outcome measures were overall survival (os) and progression-free survival (pfs) by independent review facility (irf) per recist v1.1. a total of 483 patients were randomized, including 242 to the zepzelca with atezolizumab arm and 241 to the a",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Romania",
+        "tier": 1,
+        "source_reference": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+        "evidence_quote": "ry endpoints. improvements in median pfs and median os were reported in the combination arm compared to the atezolizumab arm (respectively, 5.4 vs. 2.1 months (hr 0.54), and 13.2 vs. 10.6 months (hr 0.73). results were consistent across all key subgroups. the combination was general ... induction chemo-immunotherapy (carboplatin, etoposide, and atezolizumab), patients without disease progression were randomised to continue atezolizumab alone or in combination with lurbinectedin, a selective transcription inhibitor with prior single-agent activity in sclc. [...] taken together, t ... es investigating efficacy of bispecific t-cell engager tarlatamab and lurbinectedin–atezolizumab combination met their primary endpoints of survival [...] the dellphi-304 trial evaluated the bispecific t-cell engager tarlatamab, targeting dll3 and cd3, versus standard-of-care chemotherap",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Sweden",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "| | zepzelca with atezolizumab n=242 | atezolizumab n=241 | | overall survival1 | | deaths (%) | 113 (47%) | 136 (56%) | | median, months | 13.2 | 10.6 | | (95% ci) | (11.9, 16.4) | (9.5, 12.2) | | hazard ratio2 (95% ci) | 0.73 (0.57, 0.95) | | p-value3, 6 | 0.0174 | | progression-fr ... cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms: * zepzelca 3.2 mg/m2 iv with atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity, or * atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity randomization was stratified by ecog pe ... study enrollment (yes vs. no), and prior receipt of prophylactic cranial irradiation (yes vs. no). the major efficacy outcome measures were overall survival (os) and progression-free survival (pfs) by independent review facility (irf) per recist v1.1. a total of 483 patients were randomized, inc",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Sweden",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "57, 0.95) | | p-value3, 6 | 0.0174 | | progression-free survival1,4,5 | | number of events (%) | 174 (72%) | 202 (84%) | | median, months | 5.4 | 2.1 | | (95% ci) | (4.2, 5.8) | (1.6, 2.7) | | hazard ratio2 (95% ci) | 0.54 (0.43, 0.67) | | p-value3, 7 | < 0.0001 | figure 1: progress ... cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms: * zepzelca 3.2 mg/m2 iv with atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity, or * atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity randomization was stratified by ecog pe ... r efficacy outcome measures were overall survival (os) and progression-free survival (pfs) by independent review facility (irf) per recist v1.1. a total of 483 patients were randomized, including 242 to the zepzelca with atezolizumab arm and 241 to the atezolizumab arm. the median a",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Slovakia",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "| | zepzelca with atezolizumab n=242 | atezolizumab n=241 | | overall survival1 | | deaths (%) | 113 (47%) | 136 (56%) | | median, months | 13.2 | 10.6 | | (95% ci) | (11.9, 16.4) | (9.5, 12.2) | | hazard ratio2 (95% ci) | 0.73 (0.57, 0.95) | | p-value3, 6 | 0.0174 | | progression-fr ... cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms: * zepzelca 3.2 mg/m2 iv with atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity, or * atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity randomization was stratified by ecog pe ... study enrollment (yes vs. no), and prior receipt of prophylactic cranial irradiation (yes vs. no). the major efficacy outcome measures were overall survival (os) and progression-free survival (pfs) by independent review facility (irf) per recist v1.1. a total of 483 patients were randomized, inc",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Slovakia",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "57, 0.95) | | p-value3, 6 | 0.0174 | | progression-free survival1,4,5 | | number of events (%) | 174 (72%) | 202 (84%) | | median, months | 5.4 | 2.1 | | (95% ci) | (4.2, 5.8) | (1.6, 2.7) | | hazard ratio2 (95% ci) | 0.54 (0.43, 0.67) | | p-value3, 7 | < 0.0001 | figure 1: progress ... cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms: * zepzelca 3.2 mg/m2 iv with atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity, or * atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity randomization was stratified by ecog pe ... r efficacy outcome measures were overall survival (os) and progression-free survival (pfs) by independent review facility (irf) per recist v1.1. a total of 483 patients were randomized, including 242 to the zepzelca with atezolizumab arm and 241 to the atezolizumab arm. the median a",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Slovakia",
+        "tier": 1,
+        "source_reference": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+        "evidence_quote": "ry endpoints. improvements in median pfs and median os were reported in the combination arm compared to the atezolizumab arm (respectively, 5.4 vs. 2.1 months (hr 0.54), and 13.2 vs. 10.6 months (hr 0.73). results were consistent across all key subgroups. the combination was generally well tolerated, with n ... induction chemo-immunotherapy (carboplatin, etoposide, and atezolizumab), patients without disease progression were randomised to continue atezolizumab alone or in combination with lurbinectedin, a selective transcription inhibitor with prior single-agent activity in sclc. [...] taken together, t ... horacic malignancies [...] the interim analysis demonstrated a significant improvement in both co-primary endpoints. improvements in median pfs and median os were reported in the combination arm compared to the atezolizumab arm (respectively, 5.4 vs. 2.1 months (hr 0.54), and 13.2 v",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Slovakia",
+        "tier": 1,
+        "source_reference": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+        "evidence_quote": "an pfs and median os were reported in the combination arm compared to the atezolizumab arm (respectively, 5.4 vs. 2.1 months (hr 0.54), and 13.2 vs. 10.6 months (hr 0.73). results were consistent across all key subgroups. the combination was generally well tolerated, with no new safety signals emerging beyond ... induction chemo-immunotherapy (carboplatin, etoposide, and atezolizumab), patients without disease progression were randomised to continue atezolizumab alone or in combination with lurbinectedin, a selective transcription inhibitor with prior single-agent activity in sclc. [...] taken together, t",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Slovenia",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "| | zepzelca with atezolizumab n=242 | atezolizumab n=241 | | overall survival1 | | deaths (%) | 113 (47%) | 136 (56%) | | median, months | 13.2 | 10.6 | | (95% ci) | (11.9, 16.4) | (9.5, 12.2) | | hazard ratio2 (95% ci) | 0.73 (0.57, 0.95) | | p-value3, 6 | 0.0174 | | progression-fr ... cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms: * zepzelca 3.2 mg/m2 iv with atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity, or * atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity randomization was stratified by ecog pe ... study enrollment (yes vs. no), and prior receipt of prophylactic cranial irradiation (yes vs. no). the major efficacy outcome measures were overall survival (os) and progression-free survival (pfs) by independent review facility (irf) per recist v1.1. a total of 483 patients were randomized, includin",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Slovenia",
+        "tier": 1,
+        "source_reference": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "evidence_quote": "57, 0.95) | | p-value3, 6 | 0.0174 | | progression-free survival1,4,5 | | number of events (%) | 174 (72%) | 202 (84%) | | median, months | 5.4 | 2.1 | | (95% ci) | (4.2, 5.8) | (1.6, 2.7) | | hazard ratio2 (95% ci) | 0.54 (0.43, 0.67) | | p-value3, 7 | < 0.0001 | figure 1: progress ... cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms: * zepzelca 3.2 mg/m2 iv with atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity, or * atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity randomization was stratified by ecog pe ... r efficacy outcome measures were overall survival (os) and progression-free survival (pfs) by independent review facility (irf) per recist v1.1. a total of 483 patients were randomized, including 242 to the zepzelca with atezolizumab arm and 241 to the atezolizumab arm. the median a",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Slovenia",
+        "tier": 1,
+        "source_reference": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+        "evidence_quote": "ry endpoints. improvements in median pfs and median os were reported in the combination arm compared to the atezolizumab arm (respectively, 5.4 vs. 2.1 months (hr 0.54), and 13.2 vs. 10.6 months (hr 0.73). results were consistent across all key subgroups. the combination was generally well tolerated, with n ... induction chemo-immunotherapy (carboplatin, etoposide, and atezolizumab), patients without disease progression were randomised to continue atezolizumab alone or in combination with lurbinectedin, a selective transcription inhibitor with prior single-agent activity in sclc. [...] taken together, t ... horacic malignancies [...] the interim analysis demonstrated a significant improvement in both co-primary endpoints. improvements in median pfs and median os were reported in the combination arm compared to the atezolizumab arm (respectively, 5.4 vs. 2.1 months (hr 0.54), and 13.2 v",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      },
+      {
+        "member_state": "Slovenia",
+        "tier": 1,
+        "source_reference": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+        "evidence_quote": "an pfs and median os were reported in the combination arm compared to the atezolizumab arm (respectively, 5.4 vs. 2.1 months (hr 0.54), and 13.2 vs. 10.6 months (hr 0.73). results were consistent across all key subgroups. the combination was generally well tolerated, with no new safety signals emerging beyond ... induction chemo-immunotherapy (carboplatin, etoposide, and atezolizumab), patients without disease progression were randomised to continue atezolizumab alone or in combination with lurbinectedin, a selective transcription inhibitor with prior single-agent activity in sclc. [...] taken together, t",
+        "comparator_scenario": "",
+        "retain_all_status": "unconfirmed",
+        "population_scope_mismatch": ""
+      }
+    ],
+    "class_or_mechanism": "Alkylating drug",
+    "line_of_therapy": "Maintenance treatment after first-line induction therapy",
+    "indication": "Extensive-stage small cell lung cancer (ES-SCLC), Extensive-stage / Extensive-stage small cell lung cancer (ES-SCLC) / Extensive-stage small cell lung cancer (ES-SCLC), Extensive-stage, first-line, disease not progressed after induction therapy, Extensive-stage / Extensive-stage small cell lung cancer (ES-SCLC), extensive-stage / Extensive-stage small cell lung cancer (ES-SCLC), Extensive-stage, first-line, Extensive-stage / Extensive-stage small cell lung cancer (ES-SCLC), Extensive-stage, first-line, Extensive-stage; ECOG performance status 0 or 1 / Extensive-stage small cell lung cancer (ES-SCLC), extensive-stage, first-line, disease not progressed after induction, extensive-stage / Small cell lung cancer (SCLC), Extensive-stage (ES-SCLC), Extensive-stage / Extensive-stage small cell lung cancer (ES-SCLC), First-line extensive-stage small cell lung cancer, Extensive-stage; ECOG 0 (43%) or 1 (57%) / Extensive-stage small cell lung cancer (ES-SCLC), First-line ES-SCLC, disease had not progressed after completion of four cycles of atezolizumab, carboplatin and etoposide (induction treatment), Extensive-stage / Extensive-stage small-cell lung cancer (ES-SCLC), Extensive-stage / Small-Cell Lung Cancer, Extensive-stage / SCLC not progressed after carboplatin, etoposide and atezolizumab, Extensive-stage / Extensive-stage small cell lung cancer (ES-SCLC), Extensive-stage, Extensive-stage, ECOG performance status 0-1 / extensive-stage small cell lung cancer (ES-SCLC), extensive-stage",
+    "indication_scope_note": "",
+    "population_subsets": [
+      "Extensive-stage small cell lung cancer (ES-SCLC), first-line, disease not progressed after induction therapy (e.g., atezolizumab, carboplatin, and etoposide)"
+    ],
+    "tiers": [
+      1,
+      2
+    ],
+    "cross_tier_confirmed": true,
+    "or_alternative": true,
+    "general_evidence_flag": false,
+    "rationale": "Atezolizumab is widely reimbursed across 25 Member States as maintenance therapy for extensive-stage small cell lung cancer specifically in patients whose disease has not progressed after completing first-line induction with atezolizumab plus carboplatin and etoposide, consistent with its pivotal trial design and label.",
+    "sources": [
+      "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+      "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+      "https://cdn.clinicaltrials.gov/large-docs/67/NCT05091567/SAP_001.pdf",
+      "https://www.clinicaltrialsregister.eu/ctr-search/search?query=lurbinectedin",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC9469650",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC13490225",
+      "https://www.asco.org/abstracts-presentations/243670",
+      "https://www.asco.org/news-initiatives/policy-news-analysis/fda-approves-lurbinectedin-combination-atezolizumab-extensive-stage-small-cell-lung-cancer"
+    ],
+    "evidence": [
+      {
+        "source": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "quote": "| | zepzelca with atezolizumab n=242 | atezolizumab n=241 | | overall survival1 | | deaths (%) | 113 (47%) | 136 (56%) | | median, months | 13.2 | 10.6 | | (95% ci) | (11.9, 16.4) | (9.5, 12.2) | | hazard ratio2 (95% ci) | 0.73 (0.57, 0.95) | | p-value3, 6 | 0.0174 | | progression-fr ... cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms: * zepzelca 3.2 mg/m2 iv with atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity, or * atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity randomization was stratified by ecog pe ... study enrollment (yes vs. no), and prior receipt of prophylactic cranial irradiation (yes vs. no). the major efficacy outcome measures were overall survival (os) and progression-free survival (pfs) by independent review facility (irf) per recist v1.1. a total of 483 patients were randomized, includin"
+      },
+      {
+        "source": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "quote": "57, 0.95) | | p-value3, 6 | 0.0174 | | progression-free survival1,4,5 | | number of events (%) | 174 (72%) | 202 (84%) | | median, months | 5.4 | 2.1 | | (95% ci) | (4.2, 5.8) | (1.6, 2.7) | | hazard ratio2 (95% ci) | 0.54 (0.43, 0.67) | | p-value3, 7 | < 0.0001 | figure 1: progress ... cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms: * zepzelca 3.2 mg/m2 iv with atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity, or * atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity randomization was stratified by ecog pe ... no), and prior receipt of prophylactic cranial irradiation (yes vs. no). the major efficacy outcome measures were overall survival (os) and progression-free survival (pfs) by independent review facility (irf) per recist v1.1. a total of 483 patients were randomized, including 242 to the zepzelca with atezolizumab arm and 241 to the a"
+      },
+      {
+        "source": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+        "quote": "ry endpoints. improvements in median pfs and median os were reported in the combination arm compared to the atezolizumab arm (respectively, 5.4 vs. 2.1 months (hr 0.54), and 13.2 vs. 10.6 months (hr 0.73). results were consistent across all key subgroups. the combination was generally well tolerated, with n ... induction chemo-immunotherapy (carboplatin, etoposide, and atezolizumab), patients without disease progression were randomised to continue atezolizumab alone or in combination with lurbinectedin, a selective transcription inhibitor with prior single-agent activity in sclc. [...] taken together, t"
+      },
+      {
+        "source": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+        "quote": "an pfs and median os were reported in the combination arm compared to the atezolizumab arm (respectively, 5.4 vs. 2.1 months (hr 0.54), and 13.2 vs. 10.6 months (hr 0.73). results were consistent across all key subgroups. the combination was generally well tolerated, with no new safety signals emerging beyond ... induction chemo-immunotherapy (carboplatin, etoposide, and atezolizumab), patients without disease progression were randomised to continue atezolizumab alone or in combination with lurbinectedin, a selective transcription inhibitor with prior single-agent activity in sclc. [...] taken together, t"
+      },
+      {
+        "source": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+        "quote": "ly, 5.4 vs. 2.1 months (hr 0.54), and 13.2 vs. 10.6 months (hr 0.73). results were consistent across all key subgroups. the combination was generally well tolerated, with no new safety signals emerging beyond the known profiles of atezolizumab and lurbinectedin. [...] thoracic malignancies # new evidence is reshaping second-line and maintenance treatment for small cell lung cancer alfredo addeo imm ... induction chemo-immunotherapy (carboplatin, etoposide, and atezolizumab), patients without disease progression were randomised to continue atezolizumab alone or in combination with lurbinectedin, a selective transcription inhibitor with prior single-agent activity in sclc. [...] taken together, t"
+      },
+      {
+        "source": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+        "quote": "ry endpoints. improvements in median pfs and median os were reported in the combination arm compared to the atezolizumab arm (respectively, 5.4 vs. 2.1 months (hr 0.54), and 13.2 vs. 10.6 months (hr 0.73). results were consistent across all key subgroups. the combination was generally well tolerated, with n ... emo-immunotherapy (carboplatin, etoposide, and atezolizumab), patients without disease progression were randomised to continue atezolizumab alone or in combination with lurbinectedin, a selective transcription inhibitor with prior single-agent activity in sclc. [...] taken together, t ... horacic malignancies [...] the interim analysis demonstrated a significant improvement in both co-primary endpoints. improvements in median pfs and median os were reported in the combination arm compared to the atezolizumab arm (respectively, 5.4 vs. 2.1 months (hr 0.54), and 13.2 v"
+      },
+      {
+        "source": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+        "quote": "an pfs and median os were reported in the combination arm compared to the atezolizumab arm (respectively, 5.4 vs. 2.1 months (hr 0.54), and 13.2 vs. 10.6 months (hr 0.73). results were consistent across all key subgroups. the combination was generally well tolerated, with no new safety signals emerging beyond ... emo-immunotherapy (carboplatin, etoposide, and atezolizumab), patients without disease progression were randomised to continue atezolizumab alone or in combination with lurbinectedin, a selective transcription inhibitor with prior single-agent activity in sclc. [...] taken together, t"
+      },
+      {
+        "source": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "quote": "57, 0.95) | | p-value3, 6 | 0.0174 | | progression-free survival1,4,5 | | number of events (%) | 174 (72%) | 202 (84%) | | median, months | 5.4 | 2.1 | | (95% ci) | (4.2, 5.8) | (1.6, 2.7) | | hazard ratio2 (95% ci) | 0.54 (0.43, 0.67) | | p-value3, 7 | < 0.0001 | figure 1: progress ... cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms: * zepzelca 3.2 mg/m2 iv with atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity, or * atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity randomization was stratified by ecog pe ... r efficacy outcome measures were overall survival (os) and progression-free survival (pfs) by independent review facility (irf) per recist v1.1. a total of 483 patients were randomized, including 242 to the zepzelca with atezolizumab arm and 241 to the atezolizumab arm. the median a"
+      },
+      {
+        "source": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "quote": "ytes | 55 | 17 | 31 | 11 | | decreased platelets | 54 | 15 | 15 | 3 | | decreased hemoglobin | 51 | 13 | 12 | 3 | | decreased neutrophils | 36 | 18 | 7 | 4 | | chemistry | | increased alkaline phosphatase | 29 | 1 | 14 | 0 | | decreased sodium | 27 | 4 | 30 | 5 | | increased alt | ... nous atezolizumab in imforte| graded per nci ctcae v5.0. | | laboratory abnormality | zepzelca with atezolizumab n = 242 | atezolizumab n = 240 | | all grades (%) | grade 3 or 4 (%) | all grades (%) | grade 3 or 4 (%) | | hematology | | decreased lymphocytes | 55 | 17 | 31 | 11 | | ... -ede4813a6355))]. ### 6 adverse reactions the following clinically significant adverse reactions are described elsewhere in the labeling: * myelosuppression [see [warnings and precautions (5.1)](#id_c5e29efc-c0d4-4f0d-a3fb-1ec020b30f6d)] * hepatotoxicity [see [warnings and precautions (5.2)](#id"
+      },
+      {
+        "source": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "quote": "| | zepzelca with atezolizumab n=242 | atezolizumab n=241 | | overall survival1 | | deaths (%) | 113 (47%) | 136 (56%) | | median, months | 13.2 | 10.6 | | (95% ci) | (11.9, 16.4) | (9.5, 12.2) | | hazard ratio2 (95% ci) | 0.73 (0.57, 0.95) | | p-value3, 6 | 0.0174 | | progression-fr ... cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms: * zepzelca 3.2 mg/m2 iv with atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity, or * atezolizumab 1200 mg iv once every 3 weeks until disease progression or unacceptable toxicity randomization was stratified by ecog pe ... study enrollment (yes vs. no), and prior receipt of prophylactic cranial irradiation (yes vs. no). the major efficacy outcome measures were overall survival (os) and progression-free survival (pfs) by independent review facility (irf) per recist v1.1. a total of 483 patients were randomized, inc"
+      },
+      {
+        "source": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "quote": "b was 66 years (range: 35 to 85); 62% male; 82% white, 13% asian, and 0.8% black or african american. serious adverse reactions occurred in 31% of patients receiving zepzelca in combination with atezolizumab. serious adverse reactions occurring in > 2% were pneumonia (2.5%), respir ... apy with atezolizumab, carboplatin, and etoposide. patients received zepzelca 3.2 mg/m2 intravenously (iv) in combination with atezolizumab 1200 mg iv every 21 days until disease progression or unacceptable toxicity. among 242 patients who received zepzelca in combination with intrav ... b368b22-ec0c-42df-b812-6ea06e080cae)) the most common adverse reactions, for zepzelca in combination with atezolizumab including laboratory abnormalities, (≥ 30%) are: decreased lymphocytes, decreased platelets, decreased hemoglobin, decreased neutrophils, nausea, and fatigue/asthenia. ([6.1]"
+      },
+      {
+        "source": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "quote": "6e080cae)], primary prophylaxis of g-csf was administered to 84% of patients. based on laboratory values, decreased neutrophils occurred in 36%, including 18% grade 3 or grade 4 in patients who received zepzelca in combination with atezolizumab. the median time to onset of grade 3 ... nous atezolizumab in imforte| graded per nci ctcae v5.0. | | laboratory abnormality | zepzelca with atezolizumab n = 242 | atezolizumab n = 240 | | all grades (%) | grade 3 or 4 (%) | all grades (%) | grade 3 or 4 (%) | | hematology | | decreased lymphocytes | 55 | 17 | 31 | 11 | | ... h atezolizumab including laboratory abnormalities, (≥ 30%) are: decreased lymphocytes, decreased platelets, decreased hemoglobin, decreased neutrophils, nausea, and fatigue/asthenia. ([6.1](#id_6b368b22-ec0c-42df-b812-6ea06e080cae)) to report suspected adverse reactions, contact jazz pharma"
+      },
+      {
+        "source": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+        "quote": "ry endpoints. improvements in median pfs and median os were reported in the combination arm compared to the atezolizumab arm (respectively, 5.4 vs. 2.1 months (hr 0.54), and 13.2 vs. 10.6 months (hr 0.73). results were consistent across all key subgroups. the combination was generally well tolerated, with n ... emo-immunotherapy (carboplatin, etoposide, and atezolizumab), patients without disease progression were randomised to continue atezolizumab alone or in combination with lurbinectedin, a selective transcription inhibitor with prior single-agent activity in sclc. [...] taken together, t"
+      },
+      {
+        "source": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+        "quote": "ly, 5.4 vs. 2.1 months (hr 0.54), and 13.2 vs. 10.6 months (hr 0.73). results were consistent across all key subgroups. the combination was generally well tolerated, with no new safety signals emerging beyond the known profiles of atezolizumab and lurbinectedin. [...] thoracic malignancies # new evidence is reshaping second-line and maintenance treatment for small cell lung cancer alfredo addeo imm ... emo-immunotherapy (carboplatin, etoposide, and atezolizumab), patients without disease progression were randomised to continue atezolizumab alone or in combination with lurbinectedin, a selective transcription inhibitor with prior single-agent activity in sclc. [...] taken together, t"
+      },
+      {
+        "source": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "quote": "s. | | ci=confidence interval | | zepzelca with atezolizumab n=242 | atezolizumab n=241 | | overall survival1 | | deaths (%) | 113 (47%) | 136 (56%) | | median, months | 13.2 | 10.6 | | (95% ci) | (11.9, 16.4) | (9.5, 12.2) | | hazard ratio2 (95% ci) | 0.73 (0.57, 0.95) | | p-value ... cough syndrome. | | 5includes dyspnea and dyspnea exertional. | | adverse reaction | zepzelca with atezolizumab n = 242 | atezolizumab n = 240 | | all grades (%) | grade 3 or 4 (%) | all grades (%) | grade 3 or 4 (%) | | gastrointestinal | | nausea | 36 | 3 | 4 | 1 | | diarrhea1 | ... decreased appetite | 17 | 0 | 7 | 0 | | respiratory, thoracic and mediastinal disorders | | cough4 | 12 | 0 | 8 | 0 | | dyspnea5 | 11 | 2 | 10 | 2 | clinically relevant adverse reactions in < 10% of patients who received zepzelca in combination with intravenous atezolizumab include"
+      },
+      {
+        "source": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "quote": "| atezolizumab n = 240 | | all grades (%) | grade 3 or 4 (%) | all grades (%) | grade 3 or 4 (%) | | hematology | | decreased lymphocytes | 55 | 17 | 31 | 11 | | decreased platelets | 54 | 15 | 15 | 3 | | decreased hemoglobin | 51 | 13 | 12 | 3 | | decreased neutrophils | 36 | 18 | ... cough syndrome. | | 5includes dyspnea and dyspnea exertional. | | adverse reaction | zepzelca with atezolizumab n = 242 | atezolizumab n = 240 | | all grades (%) | grade 3 or 4 (%) | all grades (%) | grade 3 or 4 (%) | | gastrointestinal | | nausea | 36 | 3 | 4 | 1 | | diarrhea1 | ... 1634-222c-4e9c-80e9-42dd73172f75)] the most common adverse reactions for zepzelca as a single agent, including laboratory abnormalities, (≥ 20%) are leukopenia, lymphopenia, fatigue, anemia, neutropenia, increased creatinine, increased alanine aminotransferase, increased glucose, t"
+      },
+      {
+        "source": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+        "quote": "ry endpoints. improvements in median pfs and median os were reported in the combination arm compared to the atezolizumab arm (respectively, 5.4 vs. 2.1 months (hr 0.54), and 13.2 vs. 10.6 months (hr 0.73). results were consistent across all key subgroups. the combination was generally well tolerated, with n ... induction chemo-immunotherapy (carboplatin, etoposide, and atezolizumab), patients without disease progression were randomised to continue atezolizumab alone or in combination with lurbinectedin, a selective transcription inhibitor with prior single-agent activity in sclc. [...] taken together, t ... horacic malignancies [...] the interim analysis demonstrated a significant improvement in both co-primary endpoints. improvements in median pfs and median os were reported in the combination arm compared to the atezolizumab arm (respectively, 5.4 vs. 2.1 months (hr 0.54), and 13.2 v"
+      },
+      {
+        "source": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "quote": "ytes | 55 | 17 | 31 | 11 | | decreased platelets | 54 | 15 | 15 | 3 | | decreased hemoglobin | 51 | 13 | 12 | 3 | | decreased neutrophils | 36 | 18 | 7 | 4 | | chemistry | | increased alkaline phosphatase | 29 | 1 | 14 | 0 | | decreased sodium | 27 | 4 | 30 | 5 | | increased alt | ... cough syndrome. | | 5includes dyspnea and dyspnea exertional. | | adverse reaction | zepzelca with atezolizumab n = 242 | atezolizumab n = 240 | | all grades (%) | grade 3 or 4 (%) | all grades (%) | grade 3 or 4 (%) | | gastrointestinal | | nausea | 36 | 3 | 4 | 1 | | diarrhea1 | ... b368b22-ec0c-42df-b812-6ea06e080cae)) the most common adverse reactions, for zepzelca in combination with atezolizumab including laboratory abnormalities, (≥ 30%) are: decreased lymphocytes, decreased platelets, decreased hemoglobin, decreased neutrophils, nausea, and fatigue/asthenia. ([6.1]"
+      },
+      {
+        "source": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "quote": "ytes | 55 | 17 | 31 | 11 | | decreased platelets | 54 | 15 | 15 | 3 | | decreased hemoglobin | 51 | 13 | 12 | 3 | | decreased neutrophils | 36 | 18 | 7 | 4 | | chemistry | | increased alkaline phosphatase | 29 | 1 | 14 | 0 | | decreased sodium | 27 | 4 | 30 | 5 | | increased alt | ... cough syndrome. | | 5includes dyspnea and dyspnea exertional. | | adverse reaction | zepzelca with atezolizumab n = 242 | atezolizumab n = 240 | | all grades (%) | grade 3 or 4 (%) | all grades (%) | grade 3 or 4 (%) | | gastrointestinal | | nausea | 36 | 3 | 4 | 1 | | diarrhea1 | ... h atezolizumab including laboratory abnormalities, (≥ 30%) are: decreased lymphocytes, decreased platelets, decreased hemoglobin, decreased neutrophils, nausea, and fatigue/asthenia. ([6.1](#id_6b368b22-ec0c-42df-b812-6ea06e080cae)) to report suspected adverse reactions, contact jazz pharma"
+      },
+      {
+        "source": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "quote": "ytes | 55 | 17 | 31 | 11 | | decreased platelets | 54 | 15 | 15 | 3 | | decreased hemoglobin | 51 | 13 | 12 | 3 | | decreased neutrophils | 36 | 18 | 7 | 4 | | chemistry | | increased alkaline phosphatase | 29 | 1 | 14 | 0 | | decreased sodium | 27 | 4 | 30 | 5 | | increased alt | ... cough syndrome. | | 5includes dyspnea and dyspnea exertional. | | adverse reaction | zepzelca with atezolizumab n = 242 | atezolizumab n = 240 | | all grades (%) | grade 3 or 4 (%) | all grades (%) | grade 3 or 4 (%) | | gastrointestinal | | nausea | 36 | 3 | 4 | 1 | | diarrhea1 | ... decreased appetite, musculoskeletal pain, decreased albumin, constipation, dyspnea, decreased sodium, increased aspartate aminotransferase, vomiting, cough, decreased magnesium and diarrhea. table 5 summarizes the adverse reactions in the sclc cohort of study b-005. table 5: adverse reac"
+      },
+      {
+        "source": "https://www.guidelinecentral.com/drug/632bb50c-3bcb-4c85-9056-fc33410550ae",
+        "quote": "(5.3)](#id_17dc639d-b97b-453c-a653-254c59f62b21) ] * rhabdomyolysis [see [warnings and precautions (5.4)](#id_0c2f1634-222c-4e9c-80e9-42dd73172f75)] the most common adverse reactions for zepzelca as a single agent, including laboratory abnormalities, (≥ 20%) are leukopenia, lympho ... frican american. serious adverse reactions occurred in 31% of patients receiving zepzelca in combination with atezolizumab. serious adverse reactions occurring in > 2% were pneumonia (2.5%), respiratory tract infection (2.1%), dyspnea (2.1%), and decreased platelet count (2.1%). fatal adv"
+      },
+      {
+        "source": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+        "quote": "ry endpoints. improvements in median pfs and median os were reported in the combination arm compared to the atezolizumab arm (respectively, 5.4 vs. 2.1 months (hr 0.54), and 13.2 vs. 10.6 months (hr 0.73). results were consistent across all key subgroups. the combination was generally well tolerated, with n ... induction chemo-immunotherapy (carboplatin, etoposide, and atezolizumab), patients without disease progression were randomised to continue atezolizumab alone or in combination with lurbinectedin, a selective transcription inhibitor with prior single-agent activity in sclc. [...] taken together, t ... rinis thoracic malignancies [...] the interim analysis demonstrated a significant improvement in both co-primary endpoints. improvements in median pfs and median os were reported in the combination arm compared to the atezolizumab arm (respectively, 5.4 vs. 2.1 months (hr 0.54), and 13.2 v"
+      },
+      {
+        "source": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+        "quote": "an pfs and median os were reported in the combination arm compared to the atezolizumab arm (respectively, 5.4 vs. 2.1 months (hr 0.54), and 13.2 vs. 10.6 months (hr 0.73). results were consistent across all key subgroups. the combination was generally well tolerated, with no new safety signals emerging beyond ... induction chemo-immunotherapy (carboplatin, etoposide, and atezolizumab), patients without disease progression were randomised to continue atezolizumab alone or in combination with lurbinectedin, a selective transcription inhibitor with prior single-agent activity in sclc. [...] taken together, t ... malignancies [...] the interim analysis demonstrated a significant improvement in both co-primary endpoints. improvements in median pfs and median os were reported in the combination arm compared to the atezolizumab arm (respectively, 5.4 vs. 2.1 months (hr 0.54), and 13.2 vs. 10.6 months"
+      },
+      {
+        "source": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+        "quote": "ry endpoints. improvements in median pfs and median os were reported in the combination arm compared to the atezolizumab arm (respectively, 5.4 vs. 2.1 months (hr 0.54), and 13.2 vs. 10.6 months (hr 0.73). results were consistent across all key subgroups. the combination was general ... induction chemo-immunotherapy (carboplatin, etoposide, and atezolizumab), patients without disease progression were randomised to continue atezolizumab alone or in combination with lurbinectedin, a selective transcription inhibitor with prior single-agent activity in sclc. [...] taken together, t ... es investigating efficacy of bispecific t-cell engager tarlatamab and lurbinectedin–atezolizumab combination met their primary endpoints of survival [...] the dellphi-304 trial evaluated the bispecific t-cell engager tarlatamab, targeting dll3 and cd3, versus standard-of-care chemotherap"
+      },
+      {
+        "source": "https://cdn.clinicaltrials.gov/large-docs/67/NCT05091567/SAP_001.pdf",
+        "quote": "luate efficacy, safety, and pharmacokinetics of lurbinectedin when administered in combination with atezolizumab compared with atezolizumab monotherapy in participants with es-sclc, who have an ongoing response or stable disease (sd) after completion of 4 cycles of carboplatin, [...] offici ... ble 1 primary objectives and corresponding estimands for randomized participants primary objective(s) estimand definition  to evaluate the efficacy of lurbinectedin in combination with atezolizumab compared with atezolizumab  population: individuals with es-sclc who have ongoing complete response (cr), partial response (pr) or sd after completion of 4 cycles of"
+      },
+      {
+        "source": "https://cdn.clinicaltrials.gov/large-docs/67/NCT05091567/SAP_001.pdf",
+        "quote": "luate efficacy, safety, and pharmacokinetics of lurbinectedin when administered in combination with atezolizumab compared with atezolizumab monotherapy in participants with es-sclc, who have an ongoing response or stable disease (sd) after completion of 4 cycles of carboplatin, [...] offici ... the safety and tolerability of lurbinectedin in combination with atezolizumab compared with atezolizumab  change from baseline in targeted vital signs  change from baseline in targeted clinical laboratory test results lurbinectedin and atezolizumab—f. hoffmann-la roche ltd statistic"
+      },
+      {
+        "source": "https://www.clinicaltrialsregister.eu/ctr-search/search?query=lurbinectedin",
+        "quote": "| | | | full title: a phase iii, randomized, open-label, multicenter study of lurbinectedin in combination with atezolizumab compared with atezolizumab as maintenance therapy in participants with extensive-stage small... | | | | medical condition: small-cell lung cancer | | | | | | | | | | | --- --- --- | | disea"
+      },
+      {
+        "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9469650",
+        "quote": "ongoing response. in arm a, patients will receive the combination of atezolizumab and lurbinectedin, while in arm b, patients will receive standard maintenance therapy with atezolizumab. pfs and os are the primary outcome measures. estimated enrollment is for 690 participants. results are awaited in march 2025. the emerge 4 ... ve the combination of atezolizumab and lurbinectedin, while in arm b, patients will receive standard maintenance therapy with atezolizumab. pfs and os are the primary outcome measures. estimated enrollment is for 690 participants. results are awaited in march 2025. the emerge 402 trial (43"
+      },
+      {
+        "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13490225",
+        "quote": "atezolizumab or atezolizumab alone [61, 61]. compared to atezolizumab alone, the combination demonstrated significant improvements in mpfs (5.4 vs. 2.7 months; hr 0.54) and mos (13.2 vs. 10.6 months; hr 0.73), measured from randomization at the start of maintenance,. patients without disease progression af ... ooperative oncology group, ecog, performance status 0–1) and without brain metastases were randomized to lurbinectedin plus atezolizumab or atezolizumab alone [61, 61]. compared to atezolizumab alone, the combination demonstrated significant improvements in mpfs (5.4 vs. 2.7 months; hr 0.54) and m"
+      },
+      {
+        "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13490225",
+        "quote": ", 61]. compared to atezolizumab alone, the combination demonstrated significant improvements in mpfs (5.4 vs. 2.7 months; hr 0.54) and mos (13.2 vs. 10.6 months; hr 0.73), measured from randomization at the start of maintenance,. patients without disease progression after induction chemoimmunotherapy . as an ... ooperative oncology group, ecog, performance status 0–1) and without brain metastases were randomized to lurbinectedin plus atezolizumab or atezolizumab alone [61, 61]. compared to atezolizumab alone, the combination demonstrated significant improvements in mpfs (5.4 vs. 2.7 months; hr 0.54) and m"
+      },
+      {
+        "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13490225",
+        "quote": "t disease progression after induction chemoimmunotherapy . as anticipated with chemotherapy-based intensification, hematologic toxicity was higher in the combination arm . g-csf prophylaxis is recommended to minimize neutropenic fever, and trilaciclib may [...] ## conclusions and future directions sclc manag ... ooperative oncology group, ecog, performance status 0–1) and without brain metastases were randomized to lurbinectedin plus atezolizumab or atezolizumab alone [61, 61]. compared to atezolizumab alone, the combination demonstrated significant improvements in mpfs (5.4 vs. 2.7 months; hr 0.54) and m ... tenance,. patients without disease progression after induction chemoimmunotherapy . as anticipated with chemotherapy-based intensification, hematologic toxicity was higher in the combination arm . g-csf prophylaxis is recommended to minimize neutropenic fever, and trilaciclib may [...] ## conclusion"
+      },
+      {
+        "source": "https://www.asco.org/abstracts-presentations/243670",
+        "quote": "with extensive-stage small cell lung cancer (es-sclc): primary results of the phase 3 imforte trial. [...] + atezo vs atezo (stratified hr, 0.73 [95% ci: 0.57, 0.95]; _p_=0.0174). median maintenance tx duration was 4.1 mo with lurbi and 4.2 mo with atezo in the lurbi + atezo arm (n=2"
+      },
+      {
+        "source": "https://www.asco.org/abstracts-presentations/243670",
+        "quote": "m (n=242) and 2.1 mo in the atezo arm (n=240). in the lurbi + atezo and atezo arms, respectively, treatment-related aes (traes) occurred in 83.5% vs 40.0% of pts, g3/4 traes in 25.6% vs 5.8% and g5 traes in 0.8% (2 pts; sepsis, febrile neutropenia) vs 0.4% (1 pt; sepsis); aes led to ... th atezo in the lurbi + atezo arm (n=242) and 2.1 mo in the atezo arm (n=240). in the lurbi + atezo and atezo arms, respectively, treatment-related aes (traes) occurred in 83.5% vs 40.0% of pts, g3/4 traes in 25.6% vs 5.8% and g5 traes in 0.8% (2 pts; sepsis, febrile neutropenia) vs 0.4"
+      },
+      {
+        "source": "https://www.asco.org/news-initiatives/policy-news-analysis/fda-approves-lurbinectedin-combination-atezolizumab-extensive-stage-small-cell-lung-cancer",
+        "quote": "view facility (irf) according to recist v.1.1, measured from the time of randomization after completion of induction therapy. median os was 13.2 months (95% ci: 11.9, 16.4) in the lurbinectedin with atezolizumab arm and 10.6 months (95% ci: 9.5, 12.2) in the atezolizumab arm (hazard ... uction treatment) were randomized (1:1) to receive either lurbinectedin in combination with atezolizumab administered intravenously (iv) or atezolizumab iv alone until disease progression or unacceptable toxicity. [...] asco logoasco logo home / news & initiatives / policy news analysis / # fda appro ... ns, infusion-related reactions, complications of allogeneic hsct, and embryo-fetal toxicity. [...] the major efficacy outcome measures were overall survival (os) and progression-free survival (pfs) assessed by independent review facility (irf) according to recist v.1.1, measured from the time of rand"
+      },
+      {
+        "source": "https://www.asco.org/news-initiatives/policy-news-analysis/fda-approves-lurbinectedin-combination-atezolizumab-extensive-stage-small-cell-lung-cancer",
+        "quote": "months (95% ci: 9.5, 12.2) in the atezolizumab arm (hazard ratio [hr] 0.73 [95% ci: 0.57, 0.95]; two-sided p-value 0.0174). median pfs was 5.4 months (95% ci: 4.2, 5.8) and 2.1 months (95% ci: 1.6, 2.7) in the respective arms (hr 0.54 [95% ci: 0.43, 0.67]; two-sided p-value <0.0001 ... uction treatment) were randomized (1:1) to receive either lurbinectedin in combination with atezolizumab administered intravenously (iv) or atezolizumab iv alone until disease progression or unacceptable toxicity. [...] asco logoasco logo home / news & initiatives / policy news analysis / # fda appro ... ions, complications of allogeneic hsct, and embryo-fetal toxicity. [...] the major efficacy outcome measures were overall survival (os) and progression-free survival (pfs) assessed by independent review facility (irf) according to recist v.1.1, measured from the time of randomization after completion of induct"
+      }
+    ],
+    "population_scope_warnings": []
+  },
+  {
+    "generic_name": "Atezolizumab without lurbinectedin",
+    "brand_names": [],
+    "member_states": [],
+    "per_member_state": [],
+    "class_or_mechanism": "",
+    "line_of_therapy": "Maintenance therapy following first-line induction",
+    "indication": "Extensive-stage small-cell lung cancer (ES-SCLC), Extensive-stage",
+    "indication_scope_note": "",
+    "population_subsets": [
+      "Extensive-stage small cell lung cancer (ES-SCLC), first-line, disease not progressed after induction therapy (e.g., atezolizumab, carboplatin, and etoposide)"
+    ],
+    "tiers": [
+      2
+    ],
+    "cross_tier_confirmed": false,
+    "or_alternative": false,
+    "general_evidence_flag": true,
+    "rationale": "Atezolizumab alone is a reasonable comparator because it reflects a recognized maintenance-therapy option after first-line induction in extensive-stage small-cell lung cancer, though no member-state-specific listing confirms its use over the EU-wide general context cited.",
+    "sources": [
+      "https://cdn.clinicaltrials.gov/large-docs/67/NCT05091567/SAP_001.pdf"
+    ],
+    "evidence": [
+      {
+        "source": "https://cdn.clinicaltrials.gov/large-docs/67/NCT05091567/SAP_001.pdf",
+        "quote": "herein is to be disclosed without written consent from f. hoffmann-la roche ltd. lurbinectedin and atezolizumab—f. hoffmann-la roche ltd statistical analysis plan go43104 st ... and global health status as measured by the eortc qlq-c30  to evaluate the immunogenicity of atezolizumab with and without lurbinectedin  prevalence of adas to atezolizumab at induction phase baseline and incidence of adas to atezolizumab after drug administration exploratory objectives"
+      }
+    ],
+    "population_scope_warnings": []
+  }
+]

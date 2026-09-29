@@ -1,0 +1,86 @@
+[
+  {
+    "finding_type": "comparator",
+    "value": "Standard-of-care chemotherapy (topotecan, lurbinectedin, or amrubicin)",
+    "member_state": "Czech Republic",
+    "source_reference": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+    "reason": "This finding's own text signals 'second line', which does not match the requested population's line of therapy ('no progression') - verify this is genuinely a comparator for the REQUESTED population before relying on it."
+  },
+  {
+    "finding_type": "comparator",
+    "value": "Standard-of-care chemotherapy (topotecan, lurbinectedin, or amrubicin)",
+    "member_state": "Belgium",
+    "source_reference": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+    "reason": "This finding's own text signals 'second line', which does not match the requested population's line of therapy ('no progression') - verify this is genuinely a comparator for the REQUESTED population before relying on it."
+  },
+  {
+    "finding_type": "comparator",
+    "value": "Standard-of-care chemotherapy (topotecan, lurbinectedin, or amrubicin)",
+    "member_state": "Austria",
+    "source_reference": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+    "reason": "This finding's own text signals 'second line', which does not match the requested population's line of therapy ('no progression') - verify this is genuinely a comparator for the REQUESTED population before relying on it."
+  },
+  {
+    "finding_type": "comparator",
+    "value": "Standard-of-care chemotherapy (topotecan, lurbinectedin, or amrubicin)",
+    "member_state": "Hungary",
+    "source_reference": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+    "reason": "This finding's own text signals 'second line', which does not match the requested population's line of therapy ('no progression') - verify this is genuinely a comparator for the REQUESTED population before relying on it."
+  },
+  {
+    "finding_type": "comparator",
+    "value": "Standard-of-care chemotherapy (topotecan, lurbinectedin, or amrubicin)",
+    "member_state": "Latvia",
+    "source_reference": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+    "reason": "This finding's own text signals 'second line', which does not match the requested population's line of therapy ('no progression') - verify this is genuinely a comparator for the REQUESTED population before relying on it."
+  },
+  {
+    "finding_type": "comparator",
+    "value": "Standard-of-care chemotherapy (topotecan, lurbinectedin, or amrubicin)",
+    "member_state": "Italy",
+    "source_reference": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+    "reason": "This finding's own text signals 'second line', which does not match the requested population's line of therapy ('no progression') - verify this is genuinely a comparator for the REQUESTED population before relying on it."
+  },
+  {
+    "finding_type": "comparator",
+    "value": "Standard-of-care chemotherapy (topotecan, lurbinectedin, or amrubicin)",
+    "member_state": "Lithuania",
+    "source_reference": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+    "reason": "This finding's own text signals 'second line', which does not match the requested population's line of therapy ('no progression') - verify this is genuinely a comparator for the REQUESTED population before relying on it."
+  },
+  {
+    "finding_type": "comparator",
+    "value": "Standard-of-care chemotherapy (topotecan, lurbinectedin, or amrubicin)",
+    "member_state": "Malta",
+    "source_reference": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+    "reason": "This finding's own text signals 'second line', which does not match the requested population's line of therapy ('no progression') - verify this is genuinely a comparator for the REQUESTED population before relying on it."
+  },
+  {
+    "finding_type": "comparator",
+    "value": "Standard-of-care chemotherapy (topotecan, lurbinectedin, or amrubicin)",
+    "member_state": "Poland",
+    "source_reference": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+    "reason": "This finding's own text signals 'second line', which does not match the requested population's line of therapy ('no progression') - verify this is genuinely a comparator for the REQUESTED population before relying on it."
+  },
+  {
+    "finding_type": "comparator",
+    "value": "Standard-of-care chemotherapy (topotecan, lurbinectedin, or amrubicin)",
+    "member_state": "Portugal",
+    "source_reference": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+    "reason": "This finding's own text signals 'second line', which does not match the requested population's line of therapy ('no progression') - verify this is genuinely a comparator for the REQUESTED population before relying on it."
+  },
+  {
+    "finding_type": "comparator",
+    "value": "Standard-of-care chemotherapy (topotecan, lurbinectedin, or amrubicin)",
+    "member_state": "Slovakia",
+    "source_reference": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+    "reason": "This finding's own text signals 'second line', which does not match the requested population's line of therapy ('no progression') - verify this is genuinely a comparator for the REQUESTED population before relying on it."
+  },
+  {
+    "finding_type": "comparator",
+    "value": "Standard-of-care chemotherapy (topotecan, lurbinectedin, or amrubicin), n = 255",
+    "member_state": "Slovenia",
+    "source_reference": "https://dailyreporter.esmo.org/homepage/opinion/new-evidence-is-reshaping-second-line-and-maintenance-treatment-for-small-cell-lung-cancer",
+    "reason": "This finding's own text signals 'second line', which does not match the requested population's line of therapy ('no progression') - verify this is genuinely a comparator for the REQUESTED population before relying on it."
+  }
+]

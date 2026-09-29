@@ -1,0 +1,252 @@
+{
+  "by_member_state": [
+    {
+      "member_state": "Austria",
+      "status": "identified",
+      "comparators": [
+        "Atezolizumab"
+      ],
+      "state_search_status": "complete",
+      "finding": ""
+    },
+    {
+      "member_state": "Belgium",
+      "status": "identified",
+      "comparators": [
+        "Atezolizumab"
+      ],
+      "state_search_status": "complete",
+      "finding": ""
+    },
+    {
+      "member_state": "Bulgaria",
+      "status": "identified",
+      "comparators": [
+        "Atezolizumab"
+      ],
+      "state_search_status": "complete",
+      "finding": ""
+    },
+    {
+      "member_state": "Croatia",
+      "status": "identified",
+      "comparators": [
+        "Atezolizumab"
+      ],
+      "state_search_status": "complete",
+      "finding": ""
+    },
+    {
+      "member_state": "Cyprus",
+      "status": "identified",
+      "comparators": [
+        "Atezolizumab"
+      ],
+      "state_search_status": "complete",
+      "finding": ""
+    },
+    {
+      "member_state": "Czech Republic",
+      "status": "identified",
+      "comparators": [
+        "Atezolizumab"
+      ],
+      "state_search_status": "complete",
+      "finding": ""
+    },
+    {
+      "member_state": "Denmark",
+      "status": "not_identified",
+      "comparators": [],
+      "state_search_status": "complete",
+      "finding": "No comparator is identified"
+    },
+    {
+      "member_state": "Estonia",
+      "status": "identified",
+      "comparators": [
+        "Atezolizumab"
+      ],
+      "state_search_status": "complete",
+      "finding": ""
+    },
+    {
+      "member_state": "Finland",
+      "status": "identified",
+      "comparators": [
+        "Atezolizumab"
+      ],
+      "state_search_status": "complete",
+      "finding": ""
+    },
+    {
+      "member_state": "France",
+      "status": "identified",
+      "comparators": [
+        "Atezolizumab"
+      ],
+      "state_search_status": "complete",
+      "finding": ""
+    },
+    {
+      "member_state": "Germany",
+      "status": "identified",
+      "comparators": [
+        "Atezolizumab"
+      ],
+      "state_search_status": "complete",
+      "finding": ""
+    },
+    {
+      "member_state": "Greece",
+      "status": "identified",
+      "comparators": [
+        "Atezolizumab"
+      ],
+      "state_search_status": "complete",
+      "finding": ""
+    },
+    {
+      "member_state": "Hungary",
+      "status": "identified",
+      "comparators": [
+        "Atezolizumab"
+      ],
+      "state_search_status": "complete",
+      "finding": ""
+    },
+    {
+      "member_state": "Ireland",
+      "status": "identified",
+      "comparators": [
+        "Atezolizumab"
+      ],
+      "state_search_status": "complete",
+      "finding": ""
+    },
+    {
+      "member_state": "Italy",
+      "status": "identified",
+      "comparators": [
+        "Atezolizumab"
+      ],
+      "state_search_status": "complete",
+      "finding": ""
+    },
+    {
+      "member_state": "Latvia",
+      "status": "identified",
+      "comparators": [
+        "Atezolizumab"
+      ],
+      "state_search_status": "complete",
+      "finding": ""
+    },
+    {
+      "member_state": "Lithuania",
+      "status": "identified",
+      "comparators": [
+        "Atezolizumab"
+      ],
+      "state_search_status": "complete",
+      "finding": ""
+    },
+    {
+      "member_state": "Luxembourg",
+      "status": "identified",
+      "comparators": [
+        "Atezolizumab"
+      ],
+      "state_search_status": "complete",
+      "finding": ""
+    },
+    {
+      "member_state": "Malta",
+      "status": "identified",
+      "comparators": [
+        "Atezolizumab"
+      ],
+      "state_search_status": "complete",
+      "finding": ""
+    },
+    {
+      "member_state": "Netherlands",
+      "status": "not_identified",
+      "comparators": [],
+      "state_search_status": "complete",
+      "finding": "No comparator is identified"
+    },
+    {
+      "member_state": "Poland",
+      "status": "identified",
+      "comparators": [
+        "Atezolizumab"
+      ],
+      "state_search_status": "complete",
+      "finding": ""
+    },
+    {
+      "member_state": "Portugal",
+      "status": "identified",
+      "comparators": [
+        "Atezolizumab"
+      ],
+      "state_search_status": "complete",
+      "finding": ""
+    },
+    {
+      "member_state": "Romania",
+      "status": "identified",
+      "comparators": [
+        "Atezolizumab"
+      ],
+      "state_search_status": "complete",
+      "finding": ""
+    },
+    {
+      "member_state": "Slovakia",
+      "status": "identified",
+      "comparators": [
+        "Atezolizumab"
+      ],
+      "state_search_status": "complete",
+      "finding": ""
+    },
+    {
+      "member_state": "Slovenia",
+      "status": "identified",
+      "comparators": [
+        "Atezolizumab"
+      ],
+      "state_search_status": "complete",
+      "finding": ""
+    },
+    {
+      "member_state": "Spain",
+      "status": "identified",
+      "comparators": [
+        "Atezolizumab"
+      ],
+      "state_search_status": "complete",
+      "finding": ""
+    },
+    {
+      "member_state": "Sweden",
+      "status": "identified",
+      "comparators": [
+        "Atezolizumab"
+      ],
+      "state_search_status": "complete",
+      "finding": ""
+    }
+  ],
+  "not_identified_states": [
+    "Denmark",
+    "Netherlands"
+  ],
+  "summary": {
+    "identified_count": 25,
+    "not_identified_count": 2,
+    "total": 27
+  }
+}

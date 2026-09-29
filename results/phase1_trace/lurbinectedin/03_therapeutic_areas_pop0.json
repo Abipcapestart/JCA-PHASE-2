@@ -1,0 +1,12 @@
+{
+  "areas": [
+    "Oncology",
+    "Respiratory"
+  ],
+  "rationale": {
+    "Oncology": "Deterministic keyword match; kept as its own area (not collapsed into Multi Disciplinary) per the rule that >1 matching area is never, by itself, grounds for that classification.",
+    "Respiratory": "Deterministic keyword match; kept as its own area (not collapsed into Multi Disciplinary) per the rule that >1 matching area is never, by itself, grounds for that classification."
+  },
+  "needs_llm_adjudication": true,
+  "adjudication_reason": "Multiple areas matched. Confirm with an LLM call whether this indication's guideline literature is genuinely published as ONE combined cross-specialty body of work (-> Multi Disciplinary instead) rather than by separate single-specialty societies (-> keep both areas separate, the current deterministic default)."
+}

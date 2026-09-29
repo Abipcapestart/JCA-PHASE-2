@@ -1,0 +1,638 @@
+{
+  "summary": {
+    "identified_count": 25,
+    "not_identified_count": 2,
+    "total": 27
+  },
+  "identified_states": [
+    "Austria",
+    "Belgium",
+    "Bulgaria",
+    "Croatia",
+    "Cyprus",
+    "Czech Republic",
+    "Estonia",
+    "Finland",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Latvia",
+    "Lithuania",
+    "Luxembourg",
+    "Malta",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Slovenia",
+    "Spain",
+    "Sweden"
+  ],
+  "not_identified_states": [
+    "Denmark",
+    "Netherlands"
+  ],
+  "entries": [
+    {
+      "member_state": "Austria",
+      "tiers_searched": [
+        1
+      ],
+      "source_types_searched": [
+        "clinical_guideline",
+        "hta_regulatory"
+      ],
+      "finding_ids": [
+        "cmp-00025",
+        "out-00026",
+        "cmp-00027",
+        "out-00028",
+        "cmp-00029",
+        "out-00030",
+        "cmp-00053",
+        "out-00054",
+        "cmp-00055",
+        "cmp-00056",
+        "out-00057"
+      ],
+      "inaccessible_source_count": 0,
+      "search_status": "complete"
+    },
+    {
+      "member_state": "Belgium",
+      "tiers_searched": [
+        1
+      ],
+      "source_types_searched": [
+        "clinical_guideline",
+        "hta_regulatory"
+      ],
+      "finding_ids": [
+        "cmp-00016",
+        "out-00017",
+        "cmp-00018",
+        "out-00019",
+        "out-00020",
+        "cmp-00042",
+        "out-00043",
+        "cmp-00044",
+        "out-00045",
+        "cmp-00046",
+        "out-00047"
+      ],
+      "inaccessible_source_count": 0,
+      "search_status": "complete"
+    },
+    {
+      "member_state": "Bulgaria",
+      "tiers_searched": [
+        1
+      ],
+      "source_types_searched": [
+        "clinical_guideline"
+      ],
+      "finding_ids": [
+        "cmp-00005",
+        "out-00006",
+        "cmp-00007",
+        "out-00008",
+        "out-00009",
+        "out-00010"
+      ],
+      "inaccessible_source_count": 0,
+      "search_status": "complete"
+    },
+    {
+      "member_state": "Croatia",
+      "tiers_searched": [
+        1
+      ],
+      "source_types_searched": [
+        "clinical_guideline",
+        "hta_regulatory"
+      ],
+      "finding_ids": [
+        "cmp-00021",
+        "out-00022",
+        "cmp-00023",
+        "cmp-00024"
+      ],
+      "inaccessible_source_count": 0,
+      "search_status": "complete"
+    },
+    {
+      "member_state": "Cyprus",
+      "tiers_searched": [
+        1
+      ],
+      "source_types_searched": [
+        "clinical_guideline"
+      ],
+      "finding_ids": [
+        "cmp-00031",
+        "out-00032",
+        "cmp-00033",
+        "out-00034",
+        "out-00035",
+        "out-00036"
+      ],
+      "inaccessible_source_count": 0,
+      "search_status": "complete"
+    },
+    {
+      "member_state": "Czech Republic",
+      "tiers_searched": [
+        1
+      ],
+      "source_types_searched": [
+        "clinical_guideline",
+        "hta_regulatory"
+      ],
+      "finding_ids": [
+        "cmp-00011",
+        "out-00012",
+        "cmp-00013",
+        "out-00014",
+        "out-00015",
+        "cmp-00037",
+        "out-00038",
+        "cmp-00039",
+        "cmp-00040",
+        "out-00041"
+      ],
+      "inaccessible_source_count": 0,
+      "search_status": "complete"
+    },
+    {
+      "member_state": "Denmark",
+      "tiers_searched": [
+        1
+      ],
+      "source_types_searched": [
+        "clinical_guideline",
+        "hta_regulatory"
+      ],
+      "finding_ids": [],
+      "inaccessible_source_count": 1,
+      "search_status": "complete"
+    },
+    {
+      "member_state": "Estonia",
+      "tiers_searched": [
+        1
+      ],
+      "source_types_searched": [
+        "clinical_guideline",
+        "hta_regulatory"
+      ],
+      "finding_ids": [
+        "cmp-00001",
+        "out-00002",
+        "cmp-00003",
+        "out-00004"
+      ],
+      "inaccessible_source_count": 0,
+      "search_status": "complete"
+    },
+    {
+      "member_state": "Finland",
+      "tiers_searched": [
+        1
+      ],
+      "source_types_searched": [
+        "clinical_guideline",
+        "hta_regulatory"
+      ],
+      "finding_ids": [
+        "cmp-00058",
+        "out-00059",
+        "cmp-00060",
+        "out-00061",
+        "cmp-00062",
+        "out-00063",
+        "out-00064"
+      ],
+      "inaccessible_source_count": 0,
+      "search_status": "complete"
+    },
+    {
+      "member_state": "France",
+      "tiers_searched": [
+        1
+      ],
+      "source_types_searched": [
+        "clinical_guideline",
+        "hta_regulatory"
+      ],
+      "finding_ids": [
+        "cmp-00048",
+        "out-00049",
+        "cmp-00050",
+        "out-00051",
+        "out-00052",
+        "cmp-00090",
+        "out-00091",
+        "cmp-00092",
+        "out-00093",
+        "out-00094",
+        "out-00095"
+      ],
+      "inaccessible_source_count": 0,
+      "search_status": "complete"
+    },
+    {
+      "member_state": "Germany",
+      "tiers_searched": [
+        1
+      ],
+      "source_types_searched": [
+        "clinical_guideline",
+        "hta_regulatory"
+      ],
+      "finding_ids": [
+        "cmp-00069",
+        "out-00070",
+        "cmp-00071",
+        "out-00072",
+        "out-00073"
+      ],
+      "inaccessible_source_count": 0,
+      "search_status": "complete"
+    },
+    {
+      "member_state": "Greece",
+      "tiers_searched": [
+        1
+      ],
+      "source_types_searched": [
+        "clinical_guideline"
+      ],
+      "finding_ids": [
+        "cmp-00074",
+        "out-00075",
+        "cmp-00076",
+        "out-00077",
+        "cmp-00078",
+        "out-00079",
+        "out-00080",
+        "cmp-00102",
+        "out-00103",
+        "cmp-00104",
+        "cmp-00105"
+      ],
+      "inaccessible_source_count": 0,
+      "search_status": "complete"
+    },
+    {
+      "member_state": "Hungary",
+      "tiers_searched": [
+        1
+      ],
+      "source_types_searched": [
+        "clinical_guideline",
+        "hta_regulatory"
+      ],
+      "finding_ids": [
+        "cmp-00081",
+        "out-00082",
+        "cmp-00083",
+        "out-00084",
+        "out-00085",
+        "cmp-00086",
+        "out-00087",
+        "cmp-00088",
+        "out-00089",
+        "cmp-00115",
+        "out-00116",
+        "cmp-00117",
+        "out-00118",
+        "cmp-00119",
+        "out-00120"
+      ],
+      "inaccessible_source_count": 0,
+      "search_status": "complete"
+    },
+    {
+      "member_state": "Ireland",
+      "tiers_searched": [
+        1
+      ],
+      "source_types_searched": [
+        "clinical_guideline",
+        "hta_regulatory"
+      ],
+      "finding_ids": [
+        "cmp-00065",
+        "out-00066",
+        "cmp-00067",
+        "out-00068",
+        "cmp-00121",
+        "out-00122",
+        "cmp-00123",
+        "out-00124",
+        "out-00125"
+      ],
+      "inaccessible_source_count": 0,
+      "search_status": "complete"
+    },
+    {
+      "member_state": "Italy",
+      "tiers_searched": [
+        1
+      ],
+      "source_types_searched": [
+        "clinical_guideline",
+        "hta_regulatory"
+      ],
+      "finding_ids": [
+        "cmp-00106",
+        "out-00107",
+        "cmp-00108",
+        "out-00109",
+        "cmp-00110",
+        "out-00111",
+        "cmp-00112",
+        "out-00113",
+        "out-00114",
+        "cmp-00143",
+        "out-00144",
+        "cmp-00145",
+        "cmp-00146",
+        "out-00147"
+      ],
+      "inaccessible_source_count": 0,
+      "search_status": "complete"
+    },
+    {
+      "member_state": "Latvia",
+      "tiers_searched": [
+        1
+      ],
+      "source_types_searched": [
+        "clinical_guideline",
+        "hta_regulatory"
+      ],
+      "finding_ids": [
+        "cmp-00096",
+        "out-00097",
+        "cmp-00098",
+        "out-00099",
+        "cmp-00100",
+        "out-00101",
+        "cmp-00133",
+        "out-00134",
+        "cmp-00135",
+        "cmp-00136",
+        "out-00137"
+      ],
+      "inaccessible_source_count": 0,
+      "search_status": "complete"
+    },
+    {
+      "member_state": "Lithuania",
+      "tiers_searched": [
+        1
+      ],
+      "source_types_searched": [
+        "clinical_guideline",
+        "hta_regulatory"
+      ],
+      "finding_ids": [
+        "out-00126",
+        "cmp-00127",
+        "out-00128",
+        "cmp-00129",
+        "out-00130",
+        "out-00131",
+        "out-00132",
+        "cmp-00148",
+        "out-00149",
+        "cmp-00150",
+        "out-00151",
+        "cmp-00152",
+        "out-00153"
+      ],
+      "inaccessible_source_count": 0,
+      "search_status": "complete"
+    },
+    {
+      "member_state": "Luxembourg",
+      "tiers_searched": [
+        1
+      ],
+      "source_types_searched": [
+        "clinical_guideline"
+      ],
+      "finding_ids": [
+        "cmp-00138",
+        "out-00139",
+        "cmp-00140",
+        "out-00141",
+        "out-00142"
+      ],
+      "inaccessible_source_count": 0,
+      "search_status": "complete"
+    },
+    {
+      "member_state": "Malta",
+      "tiers_searched": [
+        1
+      ],
+      "source_types_searched": [
+        "clinical_guideline"
+      ],
+      "finding_ids": [
+        "cmp-00154",
+        "out-00155",
+        "cmp-00156",
+        "out-00157",
+        "cmp-00158",
+        "out-00159",
+        "cmp-00171",
+        "out-00172",
+        "cmp-00173",
+        "out-00174",
+        "cmp-00175",
+        "out-00176"
+      ],
+      "inaccessible_source_count": 0,
+      "search_status": "complete"
+    },
+    {
+      "member_state": "Netherlands",
+      "tiers_searched": [
+        1
+      ],
+      "source_types_searched": [
+        "clinical_guideline",
+        "hta_regulatory"
+      ],
+      "finding_ids": [],
+      "inaccessible_source_count": 2,
+      "search_status": "complete"
+    },
+    {
+      "member_state": "Poland",
+      "tiers_searched": [
+        1
+      ],
+      "source_types_searched": [
+        "clinical_guideline",
+        "hta_regulatory"
+      ],
+      "finding_ids": [
+        "cmp-00160",
+        "out-00161",
+        "cmp-00162",
+        "out-00163",
+        "out-00164",
+        "cmp-00194",
+        "out-00195",
+        "cmp-00196",
+        "cmp-00197",
+        "out-00198"
+      ],
+      "inaccessible_source_count": 0,
+      "search_status": "complete"
+    },
+    {
+      "member_state": "Portugal",
+      "tiers_searched": [
+        1
+      ],
+      "source_types_searched": [
+        "clinical_guideline"
+      ],
+      "finding_ids": [
+        "cmp-00165",
+        "out-00166",
+        "cmp-00167",
+        "out-00168",
+        "out-00169",
+        "out-00170",
+        "cmp-00209",
+        "out-00210",
+        "cmp-00211",
+        "cmp-00212",
+        "cmp-00213",
+        "out-00214"
+      ],
+      "inaccessible_source_count": 0,
+      "search_status": "complete"
+    },
+    {
+      "member_state": "Romania",
+      "tiers_searched": [
+        1
+      ],
+      "source_types_searched": [
+        "clinical_guideline",
+        "hta_regulatory"
+      ],
+      "finding_ids": [
+        "cmp-00177",
+        "out-00178",
+        "cmp-00179",
+        "out-00180",
+        "out-00181",
+        "cmp-00215",
+        "out-00216"
+      ],
+      "inaccessible_source_count": 0,
+      "search_status": "complete"
+    },
+    {
+      "member_state": "Slovakia",
+      "tiers_searched": [
+        1
+      ],
+      "source_types_searched": [
+        "clinical_guideline",
+        "hta_regulatory"
+      ],
+      "finding_ids": [
+        "cmp-00182",
+        "out-00183",
+        "cmp-00184",
+        "out-00185",
+        "out-00186",
+        "out-00187",
+        "cmp-00217",
+        "out-00218",
+        "cmp-00219",
+        "out-00220",
+        "cmp-00221",
+        "out-00222"
+      ],
+      "inaccessible_source_count": 0,
+      "search_status": "complete"
+    },
+    {
+      "member_state": "Slovenia",
+      "tiers_searched": [
+        1
+      ],
+      "source_types_searched": [
+        "clinical_guideline",
+        "hta_regulatory"
+      ],
+      "finding_ids": [
+        "cmp-00199",
+        "out-00200",
+        "cmp-00201",
+        "out-00202",
+        "out-00203",
+        "out-00204",
+        "cmp-00223",
+        "out-00224",
+        "cmp-00225",
+        "out-00226",
+        "cmp-00227",
+        "out-00228"
+      ],
+      "inaccessible_source_count": 0,
+      "search_status": "complete"
+    },
+    {
+      "member_state": "Spain",
+      "tiers_searched": [
+        1
+      ],
+      "source_types_searched": [
+        "clinical_guideline",
+        "hta_regulatory"
+      ],
+      "finding_ids": [
+        "cmp-00188",
+        "out-00189",
+        "cmp-00190",
+        "out-00191",
+        "cmp-00192",
+        "out-00193"
+      ],
+      "inaccessible_source_count": 0,
+      "search_status": "complete"
+    },
+    {
+      "member_state": "Sweden",
+      "tiers_searched": [
+        1
+      ],
+      "source_types_searched": [
+        "clinical_guideline",
+        "hta_regulatory"
+      ],
+      "finding_ids": [
+        "cmp-00205",
+        "out-00206",
+        "cmp-00207",
+        "out-00208"
+      ],
+      "inaccessible_source_count": 0,
+      "search_status": "complete"
+    }
+  ]
+}

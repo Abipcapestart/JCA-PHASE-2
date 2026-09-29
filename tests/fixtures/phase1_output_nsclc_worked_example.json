@@ -1,0 +1,94 @@
+{
+  "status": "OK",
+  "structured": {
+    "populations": [{
+      "population_label": "licensed",
+      "fields": {"indication_disease": {"value": "Locally advanced or metastatic NSCLC, EGFR exon 19 deletion", "tag": "confirmed"}},
+      "manually_added": []
+    }],
+    "intervention": {"product_name": {"value": "Osimertinib", "tag": "confirmed"}}
+  },
+  "outputs": [{
+    "requested_population": "Locally advanced or metastatic NSCLC, EGFR exon 19 deletion",
+    "requested_intervention": "Osimertinib",
+    "population_subset_label": "licensed",
+    "comparators": [
+      {
+        "generic_name": "Gefitinib",
+        "brand_names": ["Iressa"],
+        "member_states": ["Denmark", "Italy"],
+        "per_member_state": [
+          {"member_state": "Denmark", "tier": 1, "source_reference": "https://sst.dk/jca-nsclc",
+           "evidence_quote": "Gefitinib is an accepted first-line comparator for EGFR-mutated NSCLC.",
+           "comparator_scenario": "at_least_one", "retain_all_status": "unconfirmed"},
+          {"member_state": "Italy", "tier": 1, "source_reference": "https://aifa.gov.it/jca-nsclc",
+           "evidence_quote": "Gefitinib e' un comparatore di prima linea accettato.",
+           "comparator_scenario": "at_least_one", "retain_all_status": "unconfirmed"}
+        ],
+        "class_or_mechanism": "EGFR tyrosine kinase inhibitor", "line_of_therapy": "First-line",
+        "indication": "EGFR exon 19 deletion NSCLC", "tiers": [1, 1],
+        "rationale": "Gefitinib is a first-line EGFR TKI comparator confirmed by national HTA bodies in states with EGFR-mutated NSCLC assessment experience.",
+        "sources": ["https://sst.dk/jca-nsclc", "https://aifa.gov.it/jca-nsclc"], "evidence": []
+      },
+      {
+        "generic_name": "Afatinib",
+        "brand_names": ["Giotrif"],
+        "member_states": ["Denmark"],
+        "per_member_state": [
+          {"member_state": "Denmark", "tier": 2, "source_reference": "https://pubmed.ncbi.nlm.nih.gov/afatinib-nsclc",
+           "evidence_quote": "Afatinib demonstrated efficacy as first-line therapy in EGFR exon 19 deletion NSCLC in a published trial.",
+           "comparator_scenario": "unique", "retain_all_status": "unconfirmed"}
+        ],
+        "class_or_mechanism": "EGFR tyrosine kinase inhibitor", "line_of_therapy": "First-line",
+        "indication": "EGFR exon 19 deletion NSCLC", "tiers": [2],
+        "rationale": "Afatinib appears as a first-line comparator in published trial literature, though it is not named in Denmark's own HTA determination.",
+        "sources": ["https://pubmed.ncbi.nlm.nih.gov/afatinib-nsclc"], "evidence": []
+      },
+      {
+        "generic_name": "Best supportive care",
+        "brand_names": [],
+        "member_states": ["Denmark", "Italy", "France", "Poland"],
+        "per_member_state": [
+          {"member_state": "Denmark", "tier": 1, "source_reference": "https://sst.dk/jca-nsclc",
+           "evidence_quote": "Best supportive care is the relevant comparator where active systemic therapy is not tolerated.",
+           "comparator_scenario": "unique", "retain_all_status": "unconfirmed"},
+          {"member_state": "Italy", "tier": 1, "source_reference": "https://aifa.gov.it/jca-nsclc",
+           "evidence_quote": "La migliore terapia di supporto e' il comparatore pertinente.",
+           "comparator_scenario": "unique", "retain_all_status": "unconfirmed"},
+          {"member_state": "France", "tier": 3, "source_reference": "https://has-sante.fr/jca-nsclc",
+           "evidence_quote": "Les soins de support optimaux sont consideres comme comparateur.",
+           "comparator_scenario": "unique", "retain_all_status": "unconfirmed"},
+          {"member_state": "Poland", "tier": 3, "source_reference": "https://aotm.gov.pl/jca-nsclc",
+           "evidence_quote": "Best supportive care jest odpowiednim komparatorem.",
+           "comparator_scenario": "unique", "retain_all_status": "unconfirmed"}
+        ],
+        "class_or_mechanism": "Supportive care", "line_of_therapy": "Any line",
+        "indication": "EGFR exon 19 deletion NSCLC", "tiers": [1, 1, 3, 3],
+        "rationale": "Best supportive care is confirmed across four Member States as the relevant comparator where active systemic therapy is not tolerated or funded.",
+        "sources": ["https://sst.dk/jca-nsclc", "https://aifa.gov.it/jca-nsclc", "https://has-sante.fr/jca-nsclc", "https://aotm.gov.pl/jca-nsclc"],
+        "evidence": []
+      }
+    ],
+    "not_identified_states": ["Malta", "Luxembourg", "Austria", "Belgium", "Bulgaria", "Croatia", "Cyprus",
+      "Czech Republic", "Estonia", "Finland", "Germany", "Greece", "Hungary", "Ireland", "Latvia", "Lithuania",
+      "Netherlands", "Portugal", "Romania", "Slovakia", "Slovenia", "Spain", "Sweden"],
+    "by_member_state": [],
+    "member_state_summary": {"identified_count": 4, "not_identified_count": 23, "total": 27},
+    "outcomes": {
+      "clinical_effectiveness": [
+        {"concept": "Overall survival", "tiers": [1], "rationale": "Standard JCA-required efficacy endpoint for NSCLC.",
+         "sources": [], "evidence": [], "listed": true},
+        {"concept": "Progression-free survival", "tiers": [1], "rationale": "Standard JCA-required efficacy endpoint for NSCLC.",
+         "sources": [], "evidence": [], "listed": true},
+        {"concept": "Objective response rate", "tiers": [1], "rationale": "Standard JCA-required efficacy endpoint for NSCLC.",
+         "sources": [], "evidence": [], "listed": true}
+      ],
+      "safety": [
+        {"concept": "Grade >=3 adverse events", "tiers": [1], "rationale": "Standard JCA-required safety endpoint.",
+         "sources": [], "evidence": [], "listed": true}
+      ],
+      "quality_of_life": [],
+      "clinician_patient_reported": []
+    }
+  }]
+}

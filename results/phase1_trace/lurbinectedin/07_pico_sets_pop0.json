@@ -1,0 +1,46 @@
+[
+  {
+    "pico_id": "PICO 1",
+    "population_subset": "Extensive-stage small cell lung cancer (ES-SCLC), first-line, disease not progressed after induction therapy (e.g., atezolizumab, carboplatin, and etoposide)",
+    "intervention": "Lurbinectedin, in combination with atezolizumab",
+    "comparator": "Atezolizumab",
+    "outcomes_scope": "Same outcomes set as the consolidated OUTPUT — OUTCOMES (applies uniformly across every PICO set for this intervention).",
+    "evidence_status": "STRONG_EVIDENCE",
+    "member_states": [
+      "Estonia",
+      "Croatia",
+      "Bulgaria",
+      "Cyprus",
+      "Czech Republic",
+      "Belgium",
+      "Austria",
+      "Finland",
+      "Germany",
+      "France",
+      "Greece",
+      "Hungary",
+      "Ireland",
+      "Latvia",
+      "Italy",
+      "Luxembourg",
+      "Lithuania",
+      "Malta",
+      "Poland",
+      "Spain",
+      "Portugal",
+      "Romania",
+      "Sweden",
+      "Slovakia",
+      "Slovenia"
+    ]
+  },
+  {
+    "pico_id": "PICO 2",
+    "population_subset": "Extensive-stage small cell lung cancer (ES-SCLC), first-line, disease not progressed after induction therapy (e.g., atezolizumab, carboplatin, and etoposide)",
+    "intervention": "Lurbinectedin, in combination with atezolizumab",
+    "comparator": "Atezolizumab without lurbinectedin",
+    "outcomes_scope": "Same outcomes set as the consolidated OUTPUT — OUTCOMES (applies uniformly across every PICO set for this intervention).",
+    "evidence_status": "LIMITED_EVIDENCE",
+    "member_states": []
+  }
+]

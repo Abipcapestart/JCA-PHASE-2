@@ -1,0 +1,73 @@
+{
+  "status": "OK",
+  "structured": {
+    "populations": [
+      {"population_label": "licensed", "fields": {"indication_disease": {"value": "Relapsed multiple myeloma", "tag": "confirmed"}}, "manually_added": []},
+      {"population_label": "intended_to_treat", "fields": {"indication_disease": {"value": "Relapsed multiple myeloma, broader intended-to-treat population", "tag": "confirmed"}}, "manually_added": []}
+    ],
+    "intervention": {"product_name": {"value": "Teclistamab", "tag": "confirmed"}}
+  },
+  "outputs": [
+    {
+      "requested_population": "Relapsed multiple myeloma",
+      "requested_intervention": "Teclistamab",
+      "population_subset_label": "licensed",
+      "comparators": [
+        {
+          "generic_name": "Pomalidomide",
+          "member_states": ["Germany", "Poland"],
+          "per_member_state": [
+            {"member_state": "Germany", "tier": 1, "source_reference": "https://gba.de/jca-mm", "evidence_quote": "Pomalidomide OR Daratumumab required together, neither can be dropped.", "comparator_scenario": "at_least_one", "retain_all_status": "confirmed_must_retain"},
+            {"member_state": "Poland", "tier": 1, "source_reference": "https://aotm.gov.pl/jca-mm", "evidence_quote": "Pomalidomide OR Daratumumab required together, neither can be dropped.", "comparator_scenario": "at_least_one", "retain_all_status": "confirmed_must_retain"}
+          ],
+          "class_or_mechanism": "Immunomodulatory agent", "line_of_therapy": "Third-line", "indication": "Relapsed multiple myeloma", "tiers": [1, 1],
+          "rationale": "Pomalidomide is a nationally confirmed third-line comparator that must be retained alongside Daratumumab per both states' explicit must-retain instruction.",
+          "sources": ["https://gba.de/jca-mm", "https://aotm.gov.pl/jca-mm"], "evidence": []
+        },
+        {
+          "generic_name": "Daratumumab",
+          "member_states": ["Germany", "Poland"],
+          "per_member_state": [
+            {"member_state": "Germany", "tier": 1, "source_reference": "https://gba.de/jca-mm", "evidence_quote": "Pomalidomide OR Daratumumab required together, neither can be dropped.", "comparator_scenario": "at_least_one", "retain_all_status": "confirmed_must_retain"},
+            {"member_state": "Poland", "tier": 1, "source_reference": "https://aotm.gov.pl/jca-mm", "evidence_quote": "Pomalidomide OR Daratumumab required together, neither can be dropped.", "comparator_scenario": "at_least_one", "retain_all_status": "confirmed_must_retain"}
+          ],
+          "class_or_mechanism": "CD38-targeted monoclonal antibody", "line_of_therapy": "Third-line", "indication": "Relapsed multiple myeloma", "tiers": [1, 1],
+          "rationale": "Daratumumab is a nationally confirmed third-line comparator that must be retained alongside Pomalidomide per both states' explicit must-retain instruction.",
+          "sources": ["https://gba.de/jca-mm", "https://aotm.gov.pl/jca-mm"], "evidence": []
+        }
+      ],
+      "not_identified_states": ["Malta", "Luxembourg", "Austria", "Belgium", "Bulgaria", "Croatia", "Cyprus", "Czech Republic", "Denmark", "Estonia", "Finland", "France", "Greece", "Hungary", "Ireland", "Italy", "Latvia", "Lithuania", "Netherlands", "Portugal", "Romania", "Slovakia", "Slovenia", "Spain", "Sweden"],
+      "by_member_state": [],
+      "member_state_summary": {"identified_count": 2, "not_identified_count": 25, "total": 27},
+      "outcomes": {
+        "clinical_effectiveness": [{"concept": "Overall survival", "tiers": [1], "rationale": "Standard endpoint.", "sources": [], "evidence": [], "listed": true}],
+        "safety": [{"concept": "Grade >=3 adverse events", "tiers": [1], "rationale": "Standard endpoint.", "sources": [], "evidence": [], "listed": true}],
+        "quality_of_life": [], "clinician_patient_reported": []
+      }
+    },
+    {
+      "requested_population": "Relapsed multiple myeloma, broader intended-to-treat population",
+      "requested_intervention": "Teclistamab",
+      "population_subset_label": "intended_to_treat",
+      "comparators": [
+        {
+          "generic_name": "Individualised treatment bundle",
+          "member_states": ["Spain"],
+          "per_member_state": [
+            {"member_state": "Spain", "tier": 2, "source_reference": "https://aemps.es/jca-mm", "evidence_quote": "Individualised treatment based on patient fitness and prior therapy.", "comparator_scenario": "individualised", "retain_all_status": "unconfirmed"}
+          ],
+          "class_or_mechanism": "Mixed", "line_of_therapy": "Third-line or later", "indication": "Relapsed multiple myeloma, broader population", "tiers": [2],
+          "rationale": "Spain's guidance recommends individualised treatment selection based on patient-specific factors for this broader population.",
+          "sources": ["https://aemps.es/jca-mm"], "evidence": []
+        }
+      ],
+      "not_identified_states": ["Malta", "Luxembourg", "Austria", "Belgium", "Bulgaria", "Croatia", "Cyprus", "Czech Republic", "Denmark", "Estonia", "Finland", "France", "Germany", "Greece", "Hungary", "Ireland", "Italy", "Latvia", "Lithuania", "Netherlands", "Poland", "Portugal", "Romania", "Slovakia", "Slovenia", "Sweden"],
+      "by_member_state": [],
+      "member_state_summary": {"identified_count": 1, "not_identified_count": 26, "total": 27},
+      "outcomes": {
+        "clinical_effectiveness": [{"concept": "Overall survival", "tiers": [1], "rationale": "Standard endpoint.", "sources": [], "evidence": [], "listed": true}],
+        "safety": [], "quality_of_life": [], "clinician_patient_reported": []
+      }
+    }
+  ]
+}

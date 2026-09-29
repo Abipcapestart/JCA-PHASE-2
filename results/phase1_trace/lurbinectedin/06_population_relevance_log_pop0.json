@@ -1,0 +1,37 @@
+[
+  {
+    "action": "excluded",
+    "original": "Chemotherapy",
+    "reason": "The chemotherapy comparator here is studied against atezolizumab+chemotherapy in the first-line induction phase, not against maintenance atezolizumab alone in patients who did not progress after induction."
+  },
+  {
+    "action": "excluded",
+    "original": "Carboplatin + Etoposide",
+    "reason": "Carboplatin + Etoposide is used as the induction-phase comparator and standard of care compared against ATEZO+CE in first-line induction, not as a comparator studied in the maintenance phase for patients who did not progress after induction."
+  },
+  {
+    "action": "excluded",
+    "original": "Cisplatin + Etoposide",
+    "reason": "The source discusses cisplatin+etoposide as a first-line induction-phase comparator to atezolizumab+CE, not as a comparator studied in the maintenance phase for patients who did not progress after first-line induction."
+  },
+  {
+    "action": "excluded",
+    "original": "Placebo + Carboplatin + Etoposide",
+    "reason": "The source discusses placebo + carboplatin + etoposide only as the first-line induction comparator arm in IMpower133 (treatment-naive metastatic SCLC), not as a comparator studied within the maintenance phase for patients who did not progress after first-line induction (the IMforte maintenance trial compares lurbinectedin+atezolizumab vs. atezolizumab alone)."
+  },
+  {
+    "action": "excluded",
+    "original": "Topotecan",
+    "reason": "Topotecan appears only as a comparator/investigator's choice in relapsed/second-line SCLC trials (e.g., PM1183-C-008-21, PM1183-C-003-14), not as a comparator studied in the maintenance phase for ES-SCLC patients who did not progress after first-line induction (which is instead described in the atezolizumab maintenance trial GO43104 without topotecan)."
+  },
+  {
+    "action": "excluded",
+    "original": "Irinotecan",
+    "reason": "The source's mentions of Irinotecan are in relapsed/second-line SCLC trial contexts (e.g., PM1183-C-008-21 vs. topotecan/irinotecan in relapsed SCLC) rather than as a comparator studied in the maintenance phase for patients not progressing after first-line induction (the relevant maintenance trial listed, GO43104, uses atezolizumab, not irinotecan, as the comparator)."
+  },
+  {
+    "action": "excluded",
+    "original": "Cyclophosphamide + Doxorubicin + Vincristine",
+    "reason": "The CAV regimen (cyclophosphamide+doxorubicin+vincristine) is compared to lurbinectedin/doxorubicin in relapsed/second-line SCLC (PM1183-C-003-14), not in the maintenance-phase, non-progressed-after-first-line-induction ES-SCLC population."
+  }
+]

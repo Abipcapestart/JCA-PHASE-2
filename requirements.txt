@@ -1,0 +1,35 @@
+# Phase 2 - PICOS Set Consolidation: dependencies.
+#
+# This lists only what phase2_pico_consolidation's own import chain actually
+# needs at runtime (verified by tracing every import, including the
+# transitive ones through phase1_scoping/scoping_config.py and
+# phase2/config.py + extraction/pico_extraction.py). It deliberately does
+# NOT include phase1_scoping/phase2's retrieval-only dependencies
+# (tavily-python, playwright, sentence-transformers, trafilatura, numpy,
+# requests) - this package never imports the retrieval code path.
+
+# --- Core pipeline ---
+pydantic>=2.10
+langgraph>=1.0
+
+# --- Agent 1 (methodology PDF parsing) ---
+pypdf>=5.0
+
+# --- Excel export ---
+openpyxl>=3.1
+
+# --- Word-document export (SME's actual named final deliverable format) ---
+python-docx>=1.1
+
+# --- Bedrock LLM calls (via phase2/extraction/pico_extraction.py) ---
+boto3>=1.34
+botocore>=1.34
+
+# --- .env loading (via phase2/config.py) ---
+python-dotenv>=1.0
+
+# --- UI (only needed to run `streamlit run ui/app.py`) ---
+streamlit>=1.38
+
+# --- Tests ---
+pytest>=8.0

@@ -1,0 +1,149 @@
+{
+  "populations": [
+    {
+      "population_label": "licensed",
+      "fields": {
+        "indication_disease": {
+          "value": "Extensive-stage small cell lung cancer (ES-SCLC) whose disease has not progressed after first-line induction therapy",
+          "tag": "confirmed",
+          "basis": "User explicitly stated this indication wording."
+        },
+        "age_group": {
+          "value": "Adults",
+          "tag": "confirmed",
+          "basis": "Explicitly stated."
+        },
+        "sex": {
+          "value": null,
+          "tag": "not_provided",
+          "basis": "No statement provided."
+        },
+        "stage_severity": {
+          "value": "Extensive-stage disease; maintenance setting - disease not progressed after 1L induction",
+          "tag": "confirmed",
+          "basis": "Explicitly stated."
+        },
+        "molecular_biomarker_status": {
+          "value": "All-comers - no biomarker selection required",
+          "tag": "confirmed",
+          "basis": "Explicitly stated."
+        },
+        "prior_therapy_line": {
+          "value": "Completed first-line induction with atezolizumab + carboplatin + etoposide, without progression",
+          "tag": "confirmed",
+          "basis": "Explicitly stated."
+        },
+        "performance_status": {
+          "value": null,
+          "tag": "not_provided",
+          "basis": "No statement provided."
+        },
+        "therapeutic_area": {
+          "value": "Oncology",
+          "tag": "inferred",
+          "basis": "Indication 'small cell lung cancer' singularly and clearly belongs to Oncology."
+        },
+        "treatment_setting_intent": {
+          "value": "Maintenance therapy in combination with atezolizumab",
+          "tag": "confirmed",
+          "basis": "Explicitly stated."
+        },
+        "disease_subtype_histology": {
+          "value": "Small cell lung cancer (SCLC), extensive-stage",
+          "tag": "confirmed",
+          "basis": "Explicitly named in the indication wording."
+        },
+        "key_organ_function_comorbidity": {
+          "value": null,
+          "tag": "not_provided",
+          "basis": "No statement provided."
+        },
+        "icd_disease_code": {
+          "value": null,
+          "tag": "not_provided",
+          "basis": "No statement provided."
+        },
+        "orphan_rare_disease_flag": {
+          "value": "Yes (EU/3/19/2143)",
+          "tag": "confirmed",
+          "basis": "Explicitly stated."
+        }
+      },
+      "manually_added": []
+    }
+  ],
+  "intervention": {
+    "product_name": {
+      "value": "Lurbinectedin, in combination with atezolizumab",
+      "tag": "confirmed",
+      "basis": "Explicitly stated."
+    },
+    "therapeutic_class_mechanism": {
+      "value": "Selective inhibitor of oncogenic transcription (binds CG-rich DNA promoter sequences, evicts oncogenic transcription factors, stalls RNA polymerase II, leading to cell cycle arrest and apoptosis; also modulates tumour-associated macrophages)",
+      "tag": "confirmed",
+      "basis": "Explicitly stated."
+    },
+    "generic_name": {
+      "value": "Lurbinectedin",
+      "tag": "confirmed",
+      "basis": "Explicitly stated as INN."
+    },
+    "route": {
+      "value": "Intravenous infusion",
+      "tag": "confirmed",
+      "basis": "Explicitly stated."
+    },
+    "dose": {
+      "value": "3.2 mg/m^2 by IV infusion over 60 minutes",
+      "tag": "confirmed",
+      "basis": "Explicitly stated."
+    },
+    "schedule": {
+      "value": "Every 21 days (Q3W), continuous",
+      "tag": "confirmed",
+      "basis": "Explicitly stated."
+    },
+    "treatment_duration": {
+      "value": "Repeated every 21 days until disease progression or unacceptable toxicity",
+      "tag": "confirmed",
+      "basis": "Explicitly stated."
+    },
+    "line_of_therapy": {
+      "value": "First-line maintenance (following 1L induction)",
+      "tag": "confirmed",
+      "basis": "Explicitly stated."
+    },
+    "product_modality": {
+      "value": "Small molecule (alkaloid-derived DNA-binding agent)",
+      "tag": "confirmed",
+      "basis": "Explicitly stated."
+    },
+    "regulatory_pathway": {
+      "value": "Standard marketing authorisation (not conditional); orphan medicinal product",
+      "tag": "confirmed",
+      "basis": "Explicitly stated."
+    },
+    "pharmaceutical_form_strength": {
+      "value": "Powder for concentrate for solution for infusion",
+      "tag": "confirmed",
+      "basis": "Explicitly stated."
+    },
+    "companion_diagnostic": {
+      "value": null,
+      "tag": "not_provided",
+      "basis": "No statement provided; molecular status noted as all-comers with no biomarker selection required."
+    },
+    "pivotal_trial_identifiers": {
+      "value": "IMforte, NCT05091567",
+      "tag": "confirmed",
+      "basis": "Explicitly stated."
+    },
+    "claimed_indication_wording": {
+      "value": "Lurbinectedin, in combination with atezolizumab, is indicated for the maintenance treatment of adult patients with ES-SCLC whose disease has not progressed after first-line induction therapy with atezolizumab, carboplatin and etoposide.",
+      "tag": "confirmed",
+      "basis": "Explicitly stated."
+    }
+  },
+  "intervention_manually_added": [],
+  "cross_field_conflicts": []
+}
